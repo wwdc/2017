@@ -10,4 +10,5 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 <!-- Main Technologies should contain 2 at MAXIMUM, preferably one from each app! -->
 |Name|Playground Link|Main Technologies|Status|
 |----|-------------- |-----------------|------|
-|[Kyle Spadaro](https://twitter.com/kylespadaro)||Develop|||
+|[Kyle Spadaro](https://twitter.com/kylespadaro)||Developing|
+
