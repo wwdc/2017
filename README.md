@@ -14,6 +14,6 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 
 | Name | Source | Video | Technologies | Status |
 |------|--------|-------|--------------|--------| 
-| [Gautham Elango](https://gauthamelango.com/)|[https://git.gcubed.co/wwdc2017/](https://git.gcubed.co/wwdc2017/)| | Swift, SpriteKit | |
-| [Hengyu](https://twitter.com/hengyuy) | [https://github.com/hengyu/Mother](https://github.com/hengyu/Mother) | | | |
-| [Kyle Spadaro](https://twitter.com/kylespadaro) | [https://github.com/kylespadaro/MinimIzed-2048](https://github.com/kylespadaro/MinimIzed-2048) | | | |
+| [Gautham Elango](https://gauthamelango.com/)|[Git](https://git.gcubed.co/wwdc2017/)| | Swift, SpriteKit | |
+| [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother) | | | |
+| [Kyle Spadaro](https://twitter.com/kylespadaro) | [GitHub](https://github.com/kylespadaro/MinimIzed-2048) | | | |
