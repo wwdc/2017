@@ -17,3 +17,4 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Gautham Elango](https://gauthamelango.com/)|[Git](https://git.gcubed.co/wwdc2017/)| | Swift, SpriteKit |Development |
 | [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother) | | |Development |
 | [Kyle Spadaro](https://twitter.com/kylespadaro) | [GitHub](https://github.com/kylespadaro/MinimIzed-2048) | | |Development |
+|[Salman Husain](https://t.me/wwdcapp)|[GitHub](https://github.com/shusain93/WWDC17/)| |SpriteKit, PlaygroundBook, SpeechSynth| Submitted|
