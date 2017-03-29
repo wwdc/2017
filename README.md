@@ -1,3 +1,5 @@
+![banner](http://i.imgur.com/uZApJ4H.png)
+
 # WWDC 2017 Scholarship Submissions
 
 List of student submissions for the WWDC 2017 scholarship.
