@@ -12,6 +12,6 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 <!-- Technologies should contain 2 MAX. -->
 |Name|Source|Video|Technologies|Status|
 |----|------|-----|------------|------|
+|[gautham elango](https://gauthamelango.com/)|[Git](https://git.gcubed.co/wwdc2017/)| |Swift, SpriteKit|Development|
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|[GitHub](https://github.com/kylespadaro/MinimIzed-2048)| | |Development|
-  |[Hengyu](https://twitter.com/hengyuy)|[GitHub](https://github.com/hengyu/Mother)| | |Developing|
-
+|[Hengyu](https://twitter.com/hengyuy)|[GitHub](https://github.com/hengyu/Mother)| | |Developing|
