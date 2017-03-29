@@ -10,5 +10,5 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 <!-- Technologies should contain 2 MAX. -->
 |Name|Playground Name|Technologies|Status|
 |----|-------------- |------------|------|
-|[Kyle Spadaro](https://twitter.com/kylespadaro)|
+|[Kyle Spadaro](https://twitter.com/kylespadaro)| | |Development|
 
