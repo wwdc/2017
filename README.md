@@ -7,8 +7,8 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 <!-- Insert your name below in alphabetical order by first name. -->
 <!-- Please only submit the playgrounds that you submitted for WWDC2017. -->
 <!-- Watch out for columns, you must have 5 pipes or else the gh-pages won't like it. -->
-<!-- Main Technologies should contain 2 MAX.-->
-|Name|Playground Name|Main Technologies|Status|
-|----|-------------- |-----------------|------|
+<!-- Technologies should contain 2 MAX. -->
+|Name|Playground Name|Technologies|Status|
+|----|-------------- |------------|------|
 |[Kyle Spadaro](https://twitter.com/kylespadaro)|
 
