@@ -8,12 +8,12 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 <!-- PLEASE READ! -->
 <!-- Insert your name below in alphabetical order by first name. -->
 <!-- Please only submit the playgrounds that you submitted for WWDC 2017. -->
-<!-- Watch out for columns, you must have 5 pipes or else the gh-pages won't like it. -->
+<!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
 <!-- Please choose one of the following values for the status column: Submitted, Rejected or Accepted -->
 <!-- Technologies column should contain 2 maximum. -->
 
-| Name | Source | Video | Technologies | Status |
-|------|--------|-------|--------------|--------| 
+| Name | Source |     Video    | Technologies | Status |
+|------|--------|--------------|--------------|--------| 
 |[Galal Hassan](https://galalhassan.com)| [GitHub](https://github.com/galalmounir/WWDC-2017-Entry)| |more details soon...|Development|
 | [Gautham Elango](https://gauthamelango.com/)|[git.gcubed.co](https://git.gcubed.co/wwdc2017/)| |Swift, SpriteKit, UIKit, Machine Learning, Minimax |Submitted |
 | [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother)| | |Development |
