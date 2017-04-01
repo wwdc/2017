@@ -18,9 +18,9 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Gautham Elango](https://gauthamelango.com/)|[git.gcubed.co](https://git.gcubed.co/wwdc2017/)|Swift, SpriteKit, UIKit, Machine Learning, Minimax |Submitted |
 | [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother) | |Development |
 |[Jai Bhavnani](https://github.com/jbhav24)| Update Soon| Gesture Recognizer, Core Animation, SpriteKit, UIKit, AVFoundation, Core Graphics, Core Images| Development|
+|[Jose Antonio González](https://github.com/josegrobles)|[GitHub](https://github.com/josegrobles/WWDC2017/)|SpriteKit, SceneKit, QuartzCore, PlaygroundBook| Submitted|
 | [Kyle Spadaro](https://twitter.com/kylespadaro) | [GitHub](https://github.com/kylespadaro/MinimIzed-2048) |SpriteKit, UIKit, AVFoundation |Development |
 | [Nicholas G](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2017)|SceneKit, SpriteKit, UIKit |Submitted |
 |[Ross Freeman](https://github.com/rfree18)|Update Soon| UIKit, AVFoundation, CoreAnimation|Development|
 |[Salman Husain](https://t.me/wwdcapp)|[GitHub](https://github.com/shusain93/WWDC17/)|SpriteKit, PlaygroundBook, SpeechSynth| Submitted|
 |[Shunzhe Ma](https://twitter.com/shunzhema)| Update Soon| SceneKit, PlaygroundBook, Core Animation, Core Graphics, AV Foundation, Gesture Recognizer, Local File Manager| Submitted|
-
