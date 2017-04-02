@@ -25,4 +25,5 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Submitted|
 |[Ross Freeman](https://github.com/rfree18)|Update Soon| | UIKit, AVFoundation, CoreAnimation|Development|
 |[Salman Husain](https://t.me/wwdcapp)|[GitHub](https://github.com/shusain93/WWDC17/)| | SpriteKit, PlaygroundBook, SpeechSynth| Submitted|
+|[Sam Eckert](https://twitter.com/sam0711er)| |Coming soon|SpriteKit, PlaygroundBook, AVKit, AV Foundation, UIKit| Submitted|
 |[Shunzhe Ma](https://twitter.com/shunzhema)| Update Soon| |SceneKit, PlaygroundBook, Core Animation, Core Graphics, AV Foundation, Gesture Recognizer, Local File Manager| Submitted|
