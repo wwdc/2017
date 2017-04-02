@@ -14,6 +14,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 
 | Name | Source |     Video    | Technologies | Status |
 |------|--------|--------------|--------------|--------| 
+|[Darius Kuddo](http://lumentie.com)| Upload Soon| [YouTube](https://youtu.be/VcKMo0UMe-E) |MetalKit, Accelerate, AVFoundation, SIMD Vector Library| Submitted|
 |[Galal Hassan](https://galalhassan.com)| [GitHub](https://github.com/galalmounir/WWDC-2017-Entry)| |more details soon...|Development|
 | [Gautham Elango](https://gauthamelango.com/)|[git.gcubed.co](https://git.gcubed.co/wwdc2017/)| |Swift, SpriteKit, UIKit, Machine Learning, Minimax |Submitted |
 | [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother)| | |Development |
