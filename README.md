@@ -13,7 +13,8 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 <!-- Technologies column should contain 2 maximum. -->
 
 | Name | Source | Technologies | Status |
-|------|--------|--------------|--------| 
+|------|--------|--------------|--------|
+|[Richter Brzeski](https://github.com/richtermb)| Update Soon| Accelerate, Core Graphics, UIKit, AVFoundation, QuartzCore| Development|
 |[Galal Hassan](https://galalhassan.com)| [GitHub](https://github.com/galalmounir/WWDC-2017-Entry)|more details soon...|Development|
 | [Gautham Elango](https://gauthamelango.com/)|[git.gcubed.co](https://git.gcubed.co/wwdc2017/)|Swift, SpriteKit, UIKit, Machine Learning, Minimax |Submitted |
 | [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother) | |Development |
