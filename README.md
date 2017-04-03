@@ -19,12 +19,12 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Charles Truluck](https://twitter.com/CharlesTruluck_)|[GitHub](https://github.com/charlestruluck/WWDC17)| |SceneKit, UIKitDynamics, Core Animation|Submitted|
 |Christian Schnorr| [GitHub](https://github.com/jenox/Force-Directed-Graph-Drawing) | | Swift, UIKitDynamics | Submitted |
 |[Clemens Brockschmidt](https://github.com/cbrockschmidt/)| | |SpriteKit, UIKit| Submitted|
-|[Darius Kuddo](http://lumentie.com)| Upload Soon| [YouTube](https://youtu.be/VcKMo0UMe-E) |MetalKit, Accelerate, AVFoundation, SIMD Vector Library| Submitted|
+|[Darius Kuddo](http://lumentie.com)|| [YouTube](https://youtu.be/VcKMo0UMe-E) |MetalKit, Accelerate, AVFoundation, SIMD Vector Library| Submitted|
 |[Galal Hassan](https://galalhassan.com)| [GitHub](https://github.com/galalmounir/WWDC-2017-Entry)| |||
 | [Gautham Elango](https://gauthamelango.com/)|[git.gcubed.co](https://git.gcubed.co/wwdc2017/)| |Swift, SpriteKit, UIKit, Machine Learning, Minimax |Submitted |
 | [Guoye Zhang](https://d0g.cc) | [GitHub](https://github.com/cc941201/WWDC2017-SAT) | | PlaygroundBook, Storyboard | Submitted |
 | [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother)| | | |
-|[Jai Bhavnani](https://github.com/jbhav24)|Update Soon| | Gesture Recognizer, Core Animation, SpriteKit, UIKit, AVFoundation, Core Graphics, Core Images| |
+|[Jai Bhavnani](https://github.com/jbhav24)|| | Gesture Recognizer, Core Animation, SpriteKit, UIKit, AVFoundation, Core Graphics, Core Images| |
 |[Jordan Osterberg](https://twitter.com/osterbergjordan)| | |SpriteKit, CoreMotion| Submitted|
 |[Jose Antonio González](https://github.com/josegrobles)|[GitHub](https://github.com/josegrobles/WWDC2017/)||SpriteKit, SceneKit, QuartzCore, PlaygroundBook| Submitted|
 |[Juan David Cruz](https://juandavidcruz.com) | [GitHub](https://github.com/juandavidcruzs/ABitOfHumanity)|| SpriteKit, UIKit, CoreAnimation, AV Foundation, Core Motion, AVSpeechSynthesizer, Gesture Recognizer |Submitted|
