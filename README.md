@@ -33,6 +33,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Mohamed Salah](https://www.facebook.com/MohameD.salahh.77)|[GitHub](https://github.com/MoHamEdSaLaHH/WWDC17-Scholarship-Submission)|[Youtube](https://www.youtube.com/watch?v=wUSoqkv4IJg&list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf&index=8)|SceneKit, AVFoundation, UIKit |Submitted |
 |[Nathan Flurry](http://nathanflurry.com)|[GitHub](https://github.com/NathanFlurry/WWDC-17-Scholarship)||Core Graphics, UIKit, SpriteKit|Submitted|
 | [Nicholas G](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2017)| [YouTube](https://youtu.be/l7oBm2AGUm8) |SceneKit, SpriteKit, UIKit |Submitted |
+|[Nikita Pankiv](https://github.com/nikitapankiv)|[GitHub](https://github.com/nikitapankiv/WWDC-17)| |UIKit, AVFoundation, Core Graphics|Submitted|
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Submitted|
 |[Ross Freeman](https://github.com/rfree18)|Update Soon| | UIKit, AVFoundation, CoreAnimation|Development|
 |[Salman Husain](https://t.me/wwdcapp)|[GitHub](https://github.com/shusain93/WWDC17/)|[YouTube](https://www.youtube.com/watch?v=dRcC0TVG4tc) | SpriteKit, PlaygroundBook, SpeechSynth| Submitted|
@@ -41,3 +42,4 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[William Taylor](http://wttech.tk)| Upload Soon| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Submitted|
 |[Weiran Du](http://www.williamdu.space)|Comming Soon||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Submitted|
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Submitted|
+
