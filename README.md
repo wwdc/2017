@@ -41,3 +41,4 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Shunzhe Ma](https://twitter.com/shunzhema)| | |SceneKit, PlaygroundBook, Core Animation, Core Graphics, AV Foundation, Gesture Recognizer, Local File Manager| Submitted|
 |[William Taylor](http://wttech.tk)|| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Submitted|
 |[Weiran Du](http://www.williamdu.space)|||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Submitted|
+| [Stergios Hetelekides](https://github.com/hetelek)|[GitHub](https://github.com/hetelek/Neural-Network-Playground)||UIKit, PlaygroundSupport, Core Graphics|Submitted|
