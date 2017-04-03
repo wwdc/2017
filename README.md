@@ -12,7 +12,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 <!-- Please choose one of the following values for the status column: Submitted, Rejected or Accepted -->
 <!-- Technologies column should contain 2 maximum. -->
 
-| Name | Source |     Video    | Technologies | Status |
+| Name | Source |Videos        | Technologies | Status |
 |------|--------|--------------|--------------|--------| 
 |[Amanda Southworth](https://github.com/thecodingone)| [GitHub](https://github.com/thecodingone/solar-system)| | UIKit, Core Animation | Submitted |
 |[Antonio Zaitoun](https://github.com/Minitour)| [GitHub](https://github.com/Minitour/The-Macintosh-Project)| [YouTube](https://www.youtube.com/watch?v=xsI5CaudNbQ) |UIKit, Core Graphics, Core Animation,Gesture Recognizer, AVFoundation| Submitted|
@@ -42,6 +42,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Pannatier Arnaud](https://github.com/ArnaudPannatier)|[GitHub](https://github.com/ArnaudPannatier/Solitaire-Playground)| | UIKit |Submitted |
 | [Patrick Balestra](https://github.com/BalestraPatrick)|[GitHub](https://github.com/BalestraPatrick/WWDC-2017-Scholarship)| [YouTube](https://www.youtube.com/watch?v=6gsqjLKMYiE&feature=youtu.be) |SceneKit, AppKit |Submitted |
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Submitted|
+|[Richter Brzeski](https://github.com/richtermb)| Update Soon| Accelerate, Core Graphics, UIKit, AVFoundation, QuartzCore| Development|
 |[Ross Freeman](https://github.com/rfree18)|[GitHub](https://github.com/rfree18/WWDC2017)|| UIKit, AVFoundation, CoreAnimation|Submitted|
 |[Salman Husain](https://t.me/wwdcapp)|[GitHub](https://github.com/shusain93/WWDC17/)|[YouTube](https://www.youtube.com/watch?v=dRcC0TVG4tc) | SpriteKit, PlaygroundBook, SpeechSynth| Submitted|
 |[Sam Eckert](https://twitter.com/sam0711er)| ||SpriteKit, PlaygroundBook, AVKit, AV Foundation, UIKit| Submitted|
@@ -51,4 +52,3 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Weiran Du](http://www.williamdu.space)|||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Submitted|
 |[William Taylor](http://wttech.tk)|| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Submitted|
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Submitted|
-
