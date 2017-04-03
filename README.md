@@ -34,7 +34,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Nathan Flurry](http://nathanflurry.com)|[GitHub](https://github.com/NathanFlurry/WWDC-17-Scholarship)||Core Graphics, UIKit, SpriteKit|Submitted|
 | [Nicholas G](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2017)| [YouTube](https://youtu.be/l7oBm2AGUm8) |SceneKit, SpriteKit, UIKit |Submitted |
 |[Nikita Pankiv](https://github.com/nikitapankiv)|[GitHub](https://github.com/nikitapankiv/WWDC-17)| |UIKit, AVFoundation, Core Graphics|Submitted|
-|[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Submitted|
+|[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)|[YouTube](https://www.youtube.com/watch?v=t70ocPwbby8)|SpriteKit, UIKit, AVFoundation| Submitted|
 |[Ross Freeman](https://github.com/rfree18)|Update Soon| | UIKit, AVFoundation, CoreAnimation|Development|
 |[Salman Husain](https://t.me/wwdcapp)|[GitHub](https://github.com/shusain93/WWDC17/)|[YouTube](https://www.youtube.com/watch?v=dRcC0TVG4tc) | SpriteKit, PlaygroundBook, SpeechSynth| Submitted|
 |[Sam Eckert](https://twitter.com/sam0711er)| |Coming soon|SpriteKit, PlaygroundBook, AVKit, AV Foundation, UIKit| Submitted|
