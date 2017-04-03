@@ -46,6 +46,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Sam Eckert](https://twitter.com/sam0711er)| ||SpriteKit, PlaygroundBook, AVKit, AV Foundation, UIKit| Submitted|
 |[Shunzhe Ma](https://twitter.com/shunzhema)| |[YouTube](https://www.youtube.com/watch?v=wpSRApiUfEI&t=9s&index=19&list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf) |SceneKit, PlaygroundBook, Core Animation, Core Graphics, AV Foundation, Gesture Recognizer, Local File Manager| Submitted|
 |[Stergios Hetelekides](https://github.com/hetelek)|[GitHub](https://github.com/hetelek/Neural-Network-Playground)||UIKit, PlaygroundSupport, Core Graphics|Submitted|
+|[Taras Nikulin](https://ru-ru.facebook.com/people/Тарас-Никулин/100000793231499)|[GitHub](https://github.com/crabman448/Dijkstra-algorithm)|[Youtube](https://www.youtube.com/watch?v=PPESI7et0cQ&feature=youtu.be)|UIKit, BezierPath, Algorithms, PlaygroundSupport|Submitted|
 |[Weiran Du](http://www.williamdu.space)|||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Submitted|
 |[William Taylor](http://wttech.tk)|| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Submitted|
 
