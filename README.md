@@ -38,6 +38,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Mohamed Salah](https://www.facebook.com/MohameD.salahh.77)|[GitHub](https://github.com/MoHamEdSaLaHH/WWDC17-Scholarship-Submission)|
 [Youtube](https://www.youtube.com/watch?v=wUSoqkv4IJg&list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf&index=8)|SceneKit, AVFoundation, UIKit |Submitted |
 | [Nicholas G](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2017)| [YouTube](https://youtu.be/l7oBm2AGUm8) |SceneKit, SpriteKit, UIKit |Submitted |
+| [Nikita Pankiv](https://github.com/nikitapankiv)| [GitHub](https://github.com/nikitapankiv/WWDC-17)| | UIKit, Core Graphics, AVFoundation | Submitted |
 | [Patrick Balestra](https://github.com/BalestraPatrick)|[GitHub](https://github.com/BalestraPatrick/WWDC-2017-Scholarship)| [YouTube](https://www.youtube.com/watch?v=6gsqjLKMYiE&feature=youtu.be) |SceneKit, AppKit |Submitted |
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Submitted|
 |[Ross Freeman](https://github.com/rfree18)|[GitHub](https://github.com/rfree18/WWDC2017)|| UIKit, AVFoundation, CoreAnimation|Submitted|
