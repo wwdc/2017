@@ -49,4 +49,5 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Taras Nikulin](https://ru-ru.facebook.com/people/Тарас-Никулин/100000793231499)|[GitHub](https://github.com/crabman448/Dijkstra-algorithm)|[Youtube](https://www.youtube.com/watch?v=PPESI7et0cQ&feature=youtu.be)|UIKit, BezierPath, Algorithms, PlaygroundSupport|Submitted|
 |[Weiran Du](http://www.williamdu.space)|||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Submitted|
 |[William Taylor](http://wttech.tk)|| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Submitted|
+|[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Submitted|
 
