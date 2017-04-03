@@ -40,7 +40,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Nicholas G](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2017)| [YouTube](https://youtu.be/l7oBm2AGUm8) |SceneKit, SpriteKit, UIKit |Submitted |
 | [Patrick Balestra](https://github.com/BalestraPatrick)|[GitHub](https://github.com/BalestraPatrick/WWDC-2017-Scholarship)| [YouTube](https://www.youtube.com/watch?v=6gsqjLKMYiE&feature=youtu.be) |SceneKit, AppKit |Submitted |
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Submitted|
-|[Ross Freeman](https://github.com/rfree18)|| | UIKit, AVFoundation, CoreAnimation||
+|[Ross Freeman](https://github.com/rfree18)|[GitHub](https://github.com/rfree18/WWDC2017)|| UIKit, AVFoundation, CoreAnimation|Submitted|
 |[Salman Husain](https://t.me/wwdcapp)|[GitHub](https://github.com/shusain93/WWDC17/)|[YouTube](https://www.youtube.com/watch?v=dRcC0TVG4tc) | SpriteKit, PlaygroundBook, SpeechSynth| Submitted|
 |[Sam Eckert](https://twitter.com/sam0711er)| ||SpriteKit, PlaygroundBook, AVKit, AV Foundation, UIKit| Submitted|
 |[Shunzhe Ma](https://twitter.com/shunzhema)| |[YouTube](https://www.youtube.com/watch?v=wpSRApiUfEI&t=9s&index=19&list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf) |SceneKit, PlaygroundBook, Core Animation, Core Graphics, AV Foundation, Gesture Recognizer, Local File Manager| Submitted|
