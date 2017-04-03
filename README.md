@@ -19,7 +19,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Arved Viehweger](https://github.com/arvedviehweger/)| [GitHub](https://github.com/arvedviehweger/WWDC17-Playground)| [YouTube](https://www.youtube.com/watch?v=o0tvrlHkuoA&)|UIKit, SpriteKit, AVFoundation, CoreGraphics| Submitted|
 |[Charles Truluck](https://twitter.com/CharlesTruluck_)|[GitHub](https://github.com/charlestruluck/WWDC17)| |SceneKit, UIKitDynamics, Core Animation|Submitted|
 |Christian Schnorr| [GitHub](https://github.com/jenox/Force-Directed-Graph-Drawing) | | Swift, UIKitDynamics | Submitted |
-|[Clemens Brockschmidt](https://github.com/cbrockschmidt/)| | |SpriteKit, UIKit| Submitted|
+|[Clemens Brockschmidt](https://github.com/cbrockschmidt/)| [GitHub](https://github.com/cbrockschmidt/wwdc17)| |SpriteKit, UIKit| Submitted|
 |[Darius Kuddo](http://lumentie.com)|| [YouTube](https://youtu.be/VcKMo0UMe-E) |MetalKit, Accelerate, AVFoundation, SIMD Vector Library| Submitted|
 |[Galal Hassan](https://galalhassan.com)| [GitHub](https://github.com/galalmounir/WWDC-2017-Entry)| |||
 | [Gautham Elango](https://gauthamelango.com/)|[git.gcubed.co](https://git.gcubed.co/wwdc2017/)| |Swift, SpriteKit, UIKit, Machine Learning, Minimax |Submitted |
