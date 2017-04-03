@@ -42,4 +42,5 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[William Taylor](http://wttech.tk)| Upload Soon| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Submitted|
 |[Weiran Du](http://www.williamdu.space)|Comming Soon||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Submitted|
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Submitted|
+|[Daniel Kuntz](https://twitter.com/danielkuntz0)|[GitHub](https://github.com/dkun7944/os-ios/tree/master/Playground)||[AudioKit](https://github.com/audiokit/AudioKit), Core Graphics, Gesture Recognizer|Submitted|
 
