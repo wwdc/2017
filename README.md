@@ -39,3 +39,4 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Shunzhe Ma](https://twitter.com/shunzhema)| Update Soon| |SceneKit, PlaygroundBook, Core Animation, Core Graphics, AV Foundation, Gesture Recognizer, Local File Manager| Submitted|
 |[William Taylor](http://wttech.tk)| Upload Soon| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Submitted|
 |[Weiran Du](http://www.williamdu.space)|Comming Soon||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Submitted|
+|[Nathan Flurry](http://nathanflurry.com)|[GitHub](https://github.com/NathanFlurry/WWDC-17-Scholarship)||Core Graphics, UIKit, SpriteKit|Submitted|
