@@ -47,7 +47,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Patrick Balestra](https://github.com/BalestraPatrick)|[GitHub](https://github.com/BalestraPatrick/WWDC-2017-Scholarship)| [YouTube](https://www.youtube.com/watch?v=6gsqjLKMYiE&feature=youtu.be) |SceneKit, AppKit |Submitted |
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Submitted|
 |[Rehaan Advani](https://twitter.com/Rehaan_Advani)|Coming Soon|[YouTube](https://www.youtube.com/watch?v=hAmEIQkCZg0)|UIKit, MapKit, PlaygroundSupport, CoreAnimation, UIKit Dynamics, AVFoundation| Submitted |
-|[Richter Brzeski](https://github.com/richtermb)| [Screenshot](https://www.photobox.co.uk/my/photo?album_id=4795633994&photo_id=21647541410)| | Accelerate, Core Graphics, UIKit, AVFoundation, QuartzCore | Submitted|
+|[Richter Brzeski](https://github.com/richtermb)| [Screenshot](https://ibb.co/mgzfqa)| | Accelerate, Core Graphics, UIKit, AVFoundation, QuartzCore | Submitted|
 |[Ross Freeman](https://github.com/rfree18)|[GitHub](https://github.com/rfree18/WWDC2017)|| UIKit, AVFoundation, CoreAnimation|Submitted|
 |[Ryan O'Connor](https://twitter.com/ryan7oconnor)|[GitHub](https://github.com/ryanoconnor7/WWDC-2017-Scholarship-Application)|[YouTube](https://youtu.be/vu6X3VcbNa4)| AVFoundation, CoreMotion, UIKit, SpriteKit, SceneKit, CutScene, PlaygroundBook* (*tool by Ash Furrow [here](https://github.com/playgroundbooks/playgroundbook) for Xcode --> .playgroundbook)|Submitted|
 |[Salman Husain](https://t.me/wwdcapp)|[GitHub](https://github.com/shusain93/WWDC17/)|[YouTube](https://www.youtube.com/watch?v=dRcC0TVG4tc) | SpriteKit, PlaygroundBook, SpeechSynth| Submitted|
