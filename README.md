@@ -30,7 +30,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Hari](https://www.twitter.com/developerHari)|||SceneKit, UIKit, Core Motion |Submitted|
 | [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother)| | SpriteKit, SceneKit, CoreAnimation, UIKit | Submitted |
 |[Jai Bhavnani](https://github.com/jbhav24)|| | Gesture Recognizer, Core Animation, SpriteKit, UIKit, AVFoundation, Core Graphics, Core Images| |
-|[Jordan Osterberg](https://twitter.com/osterbergjordan)| | |SpriteKit, CoreMotion| Submitted|
+|[Jordan Osterberg](https://twitter.com/osterbergjordan)| [GitHub](https://github.com/JordanOsterberg/wwdc/tree/master/2017/WWDC17.playground) | |SpriteKit, CoreMotion| Submitted|
 |[Jose Antonio González](https://github.com/josegrobles)|[GitHub](https://github.com/josegrobles/WWDC2017/)||SpriteKit, SceneKit, QuartzCore, PlaygroundBook| Submitted|
 |[Juan David Cruz](https://juandavidcruz.com) | [GitHub](https://github.com/juandavidcruzs/ABitOfHumanity)|| SpriteKit, UIKit, CoreAnimation, AV Foundation, Core Motion, AVSpeechSynthesizer, Gesture Recognizer |Submitted|
 | [Kabir Oberai](https://twitter.com/kabiroberai) | [GitHub](https://github.com/kabiroberai/wwdc-17) | | AVFoundation, Core Graphics, SpriteKit | Submitted |
