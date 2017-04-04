@@ -33,6 +33,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Hari](https://www.twitter.com/developerHari)|||SceneKit, UIKit, Core Motion |Submitted|
 | [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother)| | SpriteKit, SceneKit, CoreAnimation, UIKit | Submitted |
 |[Joel Rorseth](https://github.com/joelrorseth/)| [GitHub](https://github.com/joelrorseth/Tree-Trouble)|| GameplayKit, Social, SpriteKit, PlaygroundSupport, UIKit| Submitted |
+|[JackMacWindows](http://jackmacwindows.tumblr.com/)| Coming Soon | | UIKit, Timers | Submitted |
 |[Jai Bhavnani](https://github.com/jbhav24)|| | Gesture Recognizer, Core Animation, SpriteKit, UIKit, AVFoundation, Core Graphics, Core Images| |
 |[Jordan Osterberg](https://twitter.com/osterbergjordan)| [GitHub](https://github.com/JordanOsterberg/wwdc/tree/master/2017/WWDC17.playground) | |SpriteKit, CoreMotion| Submitted|
 |[Jose Antonio González](https://github.com/josegrobles)|[GitHub](https://github.com/josegrobles/WWDC2017/)||SpriteKit, SceneKit, QuartzCore, PlaygroundBook| Submitted|
