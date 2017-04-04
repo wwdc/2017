@@ -20,6 +20,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Antonio Zaitoun](https://github.com/Minitour)| [GitHub](https://github.com/Minitour/The-Macintosh-Project)| [YouTube](https://www.youtube.com/watch?v=xsI5CaudNbQ) |UIKit, Core Graphics, Core Animation,Gesture Recognizer, AVFoundation| Submitted|
 |[Arved Viehweger](https://github.com/arvedviehweger/)| [GitHub](https://github.com/arvedviehweger/WWDC17-Playground)| [YouTube](https://www.youtube.com/watch?v=o0tvrlHkuoA&)|UIKit, SpriteKit, AVFoundation, CoreGraphics| Submitted|
 |[Bradley Mackey](https://github.com/bradleymackey/)|[GitHub](https://github.com/bradleymackey/WWDC-2017)| |UIKit, Core Animation| Submitted|
+|[AMAN JAIN](linkedin.com/in/aman-jain-4a589b8a/)|| [YouTube](https://www.youtube.com/watch?v=buh1C8aYki8) |SpriteKit, AVFoundation, Swift Playground| Submitted|
 |[Charles Truluck](https://twitter.com/CharlesTruluck_)|[GitHub](https://github.com/charlestruluck/WWDC17)| |SceneKit, UIKitDynamics, Core Animation|Submitted|
 |Christian Schnorr| [GitHub](https://github.com/jenox/Force-Directed-Graph-Drawing) | | Swift, UIKitDynamics | Submitted |
 |[Clemens Brockschmidt](https://github.com/cbrockschmidt/)| [GitHub](https://github.com/cbrockschmidt/wwdc17)| |SpriteKit, UIKit| Submitted|
