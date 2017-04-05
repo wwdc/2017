@@ -17,6 +17,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Adrián Rubio](https://github.com/Adrxx)| [GitHub](https://github.com/Adrxx/Amatheus.git)|[YouTube](https://youtu.be/Pe4V74afBS8)| SpriteKit, AVFoundation | Submitted |
 |[Alexandro Luongo](https://w00dl3cs.github.io)| [GitHub](https://github.com/W00dL3cs/Super-Maze)| | UIKit, SpriteKit, CoreMotion, PlaygroundSupport | Submitted |
 |[Amanda Southworth](https://github.com/thecodingone)| [GitHub](https://github.com/thecodingone/solar-system)| | UIKit, Core Animation | Submitted |
+|[Antonio Antonino](https://github.com/Diiaablo95)| [GitHub](https://github.com/Diiaablo95/WWDC17)| [YouTube](https://www.youtube.com/watch?v=Oxh8Mllld_k) |UIKit, Core Image, PlaygroundSupport| Submitted|
 |[Antonio Zaitoun](https://github.com/Minitour)| [GitHub](https://github.com/Minitour/The-Macintosh-Project)| [YouTube](https://www.youtube.com/watch?v=xsI5CaudNbQ) |UIKit, Core Graphics, Core Animation,Gesture Recognizer, AVFoundation| Submitted|
 |[Arved Viehweger](https://github.com/arvedviehweger/)| [GitHub](https://github.com/arvedviehweger/WWDC17-Playground)| [YouTube](https://www.youtube.com/watch?v=o0tvrlHkuoA&)|UIKit, SpriteKit, AVFoundation, CoreGraphics| Submitted|
 |[Bradley Mackey](https://github.com/bradleymackey/)|[GitHub](https://github.com/bradleymackey/WWDC-2017)| |UIKit, Core Animation| Submitted|
