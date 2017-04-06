@@ -14,7 +14,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 
 | Name | Source |     Videos   | Technologies | Status |
 |------|--------|--------------|--------------|--------|
-|[Aalap Patel](https://github.com/aalap07)| [GitHub](https://github.com/aalap07/wwdc.git)|[YouTube] Coming soon| UIKit, AVFoundation, PlaygroundSupport, Core Graphics| Submitted |
+|[Aalap Patel](https://github.com/aalap07)| [GitHub](https://github.com/aalap07/wwdc.git)|Coming Soon| UIKit, AVFoundation, PlaygroundSupport, Core Graphics| Submitted |
 |[Adrián Rubio](https://github.com/Adrxx)| [GitHub](https://github.com/Adrxx/Amatheus.git)|[YouTube](https://youtu.be/Pe4V74afBS8)| SpriteKit, AVFoundation | Submitted |
 |[Agisilaos Tsaraboulidis](https://github.com/agisilaos)| Coming Soon|Coming Soon| SpriteKit, AVFoundation, GameplayKit | Submitted |
 |[Alberto Saltarelli](https://github.com/alberto093)| [GitHub](https://github.com/alberto093/CodingNotes)|[YouTube](https://www.youtube.com/watch?v=AtFOH-BCje0)| UIKit, AVFoundation, AudioToolbox | Submitted |
@@ -57,7 +57,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Neil Sardesai](https://github.com/neilsardesai)| [GitHub](https://github.com/neilsardesai/WWDC-Crowd-Simulator-2017)|  |SpriteKit| Submitted|
 | [Nicholas G](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2017)| [YouTube](https://youtu.be/XJAqi6bqZW4) |SceneKit, SpriteKit, UIKit |Submitted |
 | [Nikita Pankiv](https://github.com/nikitapankiv)| [GitHub](https://github.com/nikitapankiv/WWDC-17)| | UIKit, Core Graphics, AVFoundation | Submitted |
-|[Orlando Aprea](https://github.com/ooorlandooo)| [GitHub](https://github.com/ooorlandooo/WWDC-2017-Playground)|[YouTube]Coming Soon| SpriteKit, AVFoundation | Submitted |
+|[Orlando Aprea](https://github.com/ooorlandooo)| [GitHub](https://github.com/ooorlandooo/WWDC-2017-Playground)|Coming Soon| SpriteKit, AVFoundation | Submitted |
 | [Pannatier Arnaud](https://github.com/ArnaudPannatier)|[GitHub](https://github.com/ArnaudPannatier/Solitaire-Playground)| | UIKit |Submitted |
 | [Patrick Balestra](https://github.com/BalestraPatrick)|[GitHub](https://github.com/BalestraPatrick/WWDC-2017-Scholarship)| [YouTube](https://www.youtube.com/watch?v=6gsqjLKMYiE&feature=youtu.be) |SceneKit, AppKit |Submitted |
 |[Pietro Caruso](https://www.facebook.com/pietro.caruso.16)|[GitHub](https://github.com/ITzTravelInTime/playgoundOS)||JavaScriptCore, UIKit, SpiteKit, WebKit, Gesture Recognizer, CoreGraphics, CoreAnimation| Submitted|
