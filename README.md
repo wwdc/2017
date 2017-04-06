@@ -65,6 +65,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Qingyang Hu](https://nfls.io)|[git.oscs.io](https://git.oscs.io/mmlmml1/IntroducingAccelerometer)|Coming Soon|UIKit, CoreMotion, AudioToolBox, PlaygroundSupport, PlaygroundBook| Submitted|
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Submitted|
 |[Rehaan Advani](https://twitter.com/Rehaan_Advani)|Coming Soon|[YouTube](https://www.youtube.com/watch?v=hAmEIQkCZg0)|UIKit, MapKit, PlaygroundSupport, CoreAnimation, UIKit Dynamics, AVFoundation| Submitted |
+|[Remy Da Costa Faro](https://github.com/RemyDCF)| [GitHub](https://github.com/RemyDCF/WWDCPlayground/) |[YouTube](https://www.youtube.com/watch?v=UgsFoo7QDZs)| SpriteKit, AVFoundation | Submitted |
 |[Renata Faria](https://github.com/xReee)| - |[YouTube](https://youtu.be/P0qTka4s5zM)| UIKit, NSLayoutConstraint, Gesture Recognizer | Submitted |
 |[Rohit Gurnani](https://github.com/rkgi10)|Coming Soon|[YouTube](https://www.youtube.com/watch?v=pcWb8Nsem9U)|SpriteKit, AVFoundation|Submitted|
 |[Ross Freeman](https://github.com/rfree18)|[GitHub](https://github.com/rfree18/WWDC2017)|| UIKit, AVFoundation, CoreAnimation|Submitted|
