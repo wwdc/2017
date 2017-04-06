@@ -44,7 +44,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Juan David Cruz](https://juandavidcruz.com) | [GitHub](https://github.com/juandavidcruzs/ABitOfHumanity)|| SpriteKit, UIKit, CoreAnimation, AV Foundation, Core Motion, AVSpeechSynthesizer, Gesture Recognizer |Submitted|
 | [Kabir Oberai](https://twitter.com/kabiroberai) | [GitHub](https://github.com/kabiroberai/wwdc-17) | | AVFoundation, Core Graphics, SpriteKit | Submitted |
 |[Kush Taneja](https://www.facebook.com/kushtaneja16)|[GitHub](https://github.com/kushtaneja/WWDC-2017/)| [YouTube](https://youtu.be/tgVCUV37TqE) | UIKit, SpriteKit, Core Animation, AVFoundation, AudioToolbox, AVSpeechSynthesizer, Gesture Recognizer | Submitted|
-| [Kyle Spadaro](https://twitter.com/kylespadaro) | [GitHub](https://github.com/kylespadaro/MinimIzed-2048)| |SpriteKit, UIKit, AVFoundation |Submitted |
+| [Kyle Spadaro](https://twitter.com/kylespadaro) | [GitHub](https://github.com/kylespadaro/MinimIzed-2048)| |AVFoundation, GameplayKit, SpriteKit, UIKit |Submitted |
 |[Lalo Martínez](https://twitter.com/L__A__L__O) | [GitHub](https://github.com/LaloMrtnz/Kaleido)| [YouTube](https://www.youtube.com/watch?v=6XYdC8IKNus&t=3s)| CoreAnimation, AV Foundation |Submitted|
 |[Logan Henderson](https://twitter.com/0logn) | [GitHub](https://github.com/LoganHenderson/WWDCScholarship2017)|| UIKit, CoreImage, AV Foundation |Submitted|
 |[Matthijs Logemann](https://github.com/matthijs2704)|[GitHub](https://github.com/matthijs2704/wwdc17)|[YouTube](https://youtu.be/N2ETuXQk9QU) | SpriteKit, Swift Playgrounds (iOS), HTML, UIKit |Submitted|
