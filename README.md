@@ -15,7 +15,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | Name | Source |     Videos   | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |[Adrián Rubio](https://github.com/Adrxx)| [GitHub](https://github.com/Adrxx/Amatheus.git)|[YouTube](https://youtu.be/Pe4V74afBS8)| SpriteKit, AVFoundation | Submitted |
-|[Agisilaos Tsaraboulidis](https://github.com/agisilaos)| [GitHub](Will upload soon)|[YouTube](Will upload soon)| SpriteKit, AVFoundation, GameplayKit | Submitted |
+|[Agisilaos Tsaraboulidis](https://github.com/agisilaos)| Coming Soon|Coming Soon| SpriteKit, AVFoundation, GameplayKit | Submitted |
 |[Alberto Saltarelli](https://github.com/alberto093)| [GitHub](https://github.com/alberto093/CodingNotes)|[YouTube](https://www.youtube.com/watch?v=AtFOH-BCje0)| UIKit, AVFoundation, AudioToolbox | Submitted |
 |[Alexandro Luongo](https://w00dl3cs.github.io)| [GitHub](https://github.com/W00dL3cs/Super-Maze)| | UIKit, SpriteKit, CoreMotion, PlaygroundSupport | Submitted |
 |[Aman Jain](linkedin.com/in/aman-jain-4a589b8a/)|| [YouTube](https://www.youtube.com/watch?v=buh1C8aYki8) |SpriteKit, AVFoundation, Swift Playground| Submitted|
