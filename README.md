@@ -46,6 +46,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Kush Taneja](https://www.facebook.com/kushtaneja16)|[GitHub](https://github.com/kushtaneja/WWDC-2017/)| [YouTube](https://youtu.be/tgVCUV37TqE) | UIKit, SpriteKit, Core Animation, AVFoundation, AudioToolbox, AVSpeechSynthesizer, Gesture Recognizer | Submitted|
 | [Kyle Spadaro](https://twitter.com/kylespadaro) | [GitHub](https://github.com/kylespadaro/MinimIzed-2048)| |AVFoundation, GameplayKit, SpriteKit, UIKit |Submitted |
 |[Lalo Martínez](https://twitter.com/L__A__L__O) | [GitHub](https://github.com/LaloMrtnz/Kaleido)| [YouTube](https://www.youtube.com/watch?v=6XYdC8IKNus&t=3s)| CoreAnimation, AV Foundation |Submitted|
+|[Léo Vallet](https://github.com/leovallet)|[GitHub](https://github.com/leovallet/WWDC-2017)||SpriteKit, AVFoundation, AVSpeechSynthesizer|Submitted|
 |[Logan Henderson](https://twitter.com/0logn) | [GitHub](https://github.com/LoganHenderson/WWDCScholarship2017)|| UIKit, CoreImage, AV Foundation |Submitted|
 |[Matthijs Logemann](https://github.com/matthijs2704)|[GitHub](https://github.com/matthijs2704/wwdc17)|[YouTube](https://youtu.be/N2ETuXQk9QU) | SpriteKit, Swift Playgrounds (iOS), HTML, UIKit |Submitted|
 | [Mitchell Sweet](http://www.mitchellsweet.com)|Coming Soon|[YouTube](https://www.youtube.com/watch?v=sZf_62qixPQ)|SpriteKit, UIKit|Submitted|
@@ -72,4 +73,3 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Weiran Du](http://www.williamdu.space)|||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Submitted|
 |[William Taylor](http://wttech.tk)|| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Submitted|
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Submitted|
-|[Léo Vallet](https://github.com/leovallet)|[GitHub](https://github.com/leovallet/WWDC-2017)||SpriteKit, AVFoundation, AVSpeechSynthesizer|Submitted|
