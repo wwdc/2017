@@ -57,6 +57,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Pannatier Arnaud](https://github.com/ArnaudPannatier)|[GitHub](https://github.com/ArnaudPannatier/Solitaire-Playground)| | UIKit |Submitted |
 | [Patrick Balestra](https://github.com/BalestraPatrick)|[GitHub](https://github.com/BalestraPatrick/WWDC-2017-Scholarship)| [YouTube](https://www.youtube.com/watch?v=6gsqjLKMYiE&feature=youtu.be) |SceneKit, AppKit |Submitted |
 |[Pietro Caruso](https://www.facebook.com/pietro.caruso.16)|[GitHub](https://github.com/ITzTravelInTime/playgoundOS)||JavaScriptCore, UIKit, SpiteKit, WebKit, Gesture Recognizer, CoreGraphics, CoreAnimation| Submitted|
+|[Qingyang Hu](https://nfls.io)|[git.oscs.io](https://git.oscs.io/mmlmml1/IntroducingAccelerometer)|Coming Soon|UIKit, CoreMotion, AudioToolBox, PlaygroundSupport, PlaygroundBook| Submitted|
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Submitted|
 |[Rehaan Advani](https://twitter.com/Rehaan_Advani)|Coming Soon|[YouTube](https://www.youtube.com/watch?v=hAmEIQkCZg0)|UIKit, MapKit, PlaygroundSupport, CoreAnimation, UIKit Dynamics, AVFoundation| Submitted |
 |[Renata Faria](https://github.com/xReee)| - |[YouTube](https://youtu.be/P0qTka4s5zM)| UIKit, NSLayoutConstraint, Gesture Recognizer | Submitted |
