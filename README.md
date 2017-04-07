@@ -83,6 +83,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Stephen Heaps](https://twitter.com/StephenHeaps)| [GitHub](https://github.com/StephenHeaps/WWDC17Playground)| | UIKit, UIKit Dynamics, UIKit Animation, CoreAnimation | Submitted |
 |[Stergios Hetelekides](https://github.com/hetelek)|[GitHub](https://github.com/hetelek/Neural-Network-Playground)||UIKit, PlaygroundSupport, Core Graphics|Submitted|
 |[Taras Nikulin](https://ru-ru.facebook.com/people/Taras-Nikulin/100000793231499)|[GitHub](https://github.com/crabman448/Dijkstra-algorithm)|[Youtube](https://www.youtube.com/watch?v=PPESI7et0cQ&feature=youtu.be)|UIKit, BezierPath, Algorithms, PlaygroundSupport|Submitted|
+|[Tyler Angert](https://www.tylerangert.com)| [GitHub](https://github.com/tangert/WWDC17)|[YouTube](https://www.youtube.com/watch?v=0fhUBMSI8Yw&feature=youtu.be)| UIKit Dynamics, CoreMotion, CoreAnimation | Submitted |
 |[Weiran Du](http://www.williamdu.space)|||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Submitted|
 |[William Taylor](http://wttech.tk)|| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Submitted|
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Submitted|
