@@ -70,6 +70,8 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Remy Da Costa Faro](https://github.com/RemyDCF)| [GitHub](https://github.com/RemyDCF/WWDCPlayground/) |[YouTube](https://www.youtube.com/watch?v=UgsFoo7QDZs)| SpriteKit, AVFoundation | Submitted |
 |[Renata Faria](https://github.com/xReee)| - |[YouTube](https://youtu.be/P0qTka4s5zM)| UIKit, NSLayoutConstraint, Gesture Recognizer | Submitted |
 |[Rohit Gurnani](https://github.com/rkgi10)|Coming Soon|[YouTube](https://www.youtube.com/watch?v=pcWb8Nsem9U)|SpriteKit, AVFoundation|Submitted|
+|[Ronak Shah](https://ronakshah.net)|[GitHub](https://github.com/ronakdev/spacecoders)| Coming Soon | SpriteKit |Submitted|
+
 |[Ross Freeman](https://github.com/rfree18)|[GitHub](https://github.com/rfree18/WWDC2017)|| UIKit, AVFoundation, CoreAnimation|Submitted|
 |[Ryan O'Connor](https://twitter.com/ryan7oconnor)|[GitHub](https://github.com/ryanoconnor7/WWDC-2017-Scholarship-Application)|[YouTube](https://youtu.be/vu6X3VcbNa4)| AVFoundation, CoreMotion, UIKit, SpriteKit, SceneKit, CutScene, PlaygroundBook* (*tool by Ash Furrow [here](https://github.com/playgroundbooks/playgroundbook) for Xcode --> .playgroundbook)|Submitted|
 |[Salman Husain](https://t.me/wwdcapp)|[GitHub](https://github.com/shusain93/WWDC17/)|[YouTube](https://www.youtube.com/watch?v=dRcC0TVG4tc) | SpriteKit, PlaygroundBook, SpeechSynth| Submitted|
