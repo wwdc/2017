@@ -35,6 +35,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Darius Kuddo](http://lumentie.com)|| [YouTube](https://youtu.be/VcKMo0UMe-E) |MetalKit, Accelerate, AVFoundation, SIMD Vector Library| Submitted|
 |[Davide Sibilio](http://twitter.com/iDevid)|| [YouTube](https://www.youtube.com/watch?v=VAinhEco1mY) |UIKit, Core Animation, PlaygroundBook| Submitted|
 |[Eytan Schulman](https://twitter.com/eytanschulman)|| [YouTube](https://youtu.be/p0xSkfTZV0c) |SpriteKit, AVFoundation, Swift Playgrounds, Core Graphics, Core Animation, UIKit| Submitted|
+|[Gabriel Cavalcante](https://github.com/gabrielsscavalcante)|| [YouTube](https://youtu.be/gaoKRjBLQfQ) | UIKit, AVFoundation, CoreImage, NSLayoutContraint, UIGraphics|Submitted|
 |[Galal Hassan](https://galalhassan.com)| [GitHub](https://github.com/galalmounir/WWDC-2017-Entry)| | SpriteKit | Submitted |
 | [Gautham Elango](https://gauthamelango.com/)|[git.gcubed.co](https://git.gcubed.co/wwdc2017/)| |Swift, SpriteKit, UIKit, Machine Learning, Minimax |Submitted |
 | [Guoye Zhang](https://d0g.cc) | [GitHub](https://github.com/cc941201/WWDC2017-SAT) | | PlaygroundBook, Storyboard | Submitted |
@@ -67,6 +68,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Pietro Caruso](https://www.facebook.com/pietro.caruso.16)|[GitHub](https://github.com/ITzTravelInTime/playgoundOS)||JavaScriptCore, UIKit, SpiteKit, WebKit, Gesture Recognizer, CoreGraphics, CoreAnimation| Submitted|
 |[Qingyang Hu](https://nfls.io)|[git.oscs.io](https://git.oscs.io/mmlmml1/IntroducingAccelerometer)|Coming Soon|UIKit, CoreMotion, AudioToolBox, PlaygroundSupport, PlaygroundBook| Submitted|
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Submitted|
+|[Raul Marques](https://github.com/raulmo1337)|| [YouTube](https://youtu.be/WPaGzKoPJoA) | UIKit, AVFoundation, UIDynamics, CoreAnimation|Submitted|
 |[Rehaan Advani](https://twitter.com/Rehaan_Advani)|Coming Soon|[YouTube](https://www.youtube.com/watch?v=hAmEIQkCZg0)|UIKit, MapKit, PlaygroundSupport, CoreAnimation, UIKit Dynamics, AVFoundation| Submitted |
 |[Remy Da Costa Faro](https://github.com/RemyDCF)| [GitHub](https://github.com/RemyDCF/WWDCPlayground/) |[YouTube](https://www.youtube.com/watch?v=UgsFoo7QDZs)| SpriteKit, AVFoundation | Submitted |
 |[Renata Faria](https://github.com/xReee)| - |[YouTube](https://youtu.be/P0qTka4s5zM)| UIKit, NSLayoutConstraint, Gesture Recognizer | Submitted |
