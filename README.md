@@ -26,6 +26,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Antonio Antonino](https://github.com/Diiaablo95)| [GitHub](https://github.com/Diiaablo95/WWDC17)| [YouTube](https://www.youtube.com/watch?v=Oxh8Mllld_k) |UIKit, Core Image, PlaygroundSupport| Submitted|
 |[Antonio Zaitoun](https://github.com/Minitour)| [GitHub](https://github.com/Minitour/The-Macintosh-Project)| [YouTube](https://www.youtube.com/watch?v=xsI5CaudNbQ) |UIKit, Core Graphics, Core Animation,Gesture Recognizer, AVFoundation| Submitted|
 |[Arved Viehweger](https://github.com/arvedviehweger/)| [GitHub](https://github.com/arvedviehweger/WWDC17-Playground)| [YouTube](https://www.youtube.com/watch?v=o0tvrlHkuoA&)|UIKit, SpriteKit, AVFoundation, CoreGraphics| Submitted|
+|[Benjamin Herzog](https://github.com/BenchR267)| [Github](https://github.com/BenchR267/Get-Schwifty)| [GIF](https://github.com/BenchR267/Get-Schwifty/raw/master/img/live.gif)|UIKit, Foundation| Submitted|
 |[Bradley Mackey](https://github.com/bradleymackey/)|[GitHub](https://github.com/bradleymackey/WWDC-2017)|[YouTube](https://youtu.be/Hzs8zHOiZQM) |UIKit, Core Animation| Submitted|
 |[Charles Ferreira](https://www.facebook.com/CharlesFerreiraDev)|[GitHub](https://github.com/charles6286/RainbowFluid)|[YouTube](https://youtu.be/7duJDyI_epQ)|SpriteKit, PlaygroundSupport|Submitted|
 |[Charles Truluck](https://twitter.com/CharlesTruluck_)|[GitHub](https://github.com/charlestruluck/WWDC17)| |SceneKit, UIKitDynamics, Core Animation|Submitted|
