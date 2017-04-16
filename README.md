@@ -59,7 +59,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Lalo Martínez](https://twitter.com/L__A__L__O) | [GitHub](https://github.com/LaloMrtnz/Kaleido)| [YouTube](https://www.youtube.com/watch?v=6XYdC8IKNus&t=3s)| CoreAnimation, AV Foundation |Submitted|
 |[Léo Vallet](https://github.com/leovallet)|[GitHub](https://github.com/leovallet/WWDC-2017)||SpriteKit, AVFoundation, AVSpeechSynthesizer|Submitted|
 |[Logan Henderson](https://twitter.com/0logn) | [GitHub](https://github.com/LoganHenderson/WWDCScholarship2017)|| UIKit, CoreImage, AV Foundation |Submitted|
-|[Matthijs Logemann](https://github.com/matthijs2704)|[GitHub](https://github.com/matthijs2704/wwdc17)|[YouTube](https://youtu.be/N2ETuXQk9QU) | SpriteKit, Swift Playgrounds (iOS), HTML, UIKit |Submitted|
+|[Matthijs Logemann](https://github.com/matthijs2704)|[GitHub](https://github.com/matthijs2704/wwdc2017)|[YouTube](https://youtu.be/N2ETuXQk9QU) | SpriteKit, Swift Playgrounds (iOS), HTML, UIKit |Submitted|
 | [Mitchell Sweet](http://www.mitchellsweet.com)|Coming Soon|[YouTube](https://www.youtube.com/watch?v=sZf_62qixPQ)|SpriteKit, UIKit|Submitted|
 | [Mohamed Salah](https://www.facebook.com/MohameD.salahh.77)|[GitHub](https://github.com/MoHamEdSaLaHH/WWDC17-Scholarship-Submission)|[Youtube](https://www.youtube.com/watch?v=wUSoqkv4IJg&list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf&index=8)|SceneKit, AVFoundation, UIKit |Submitted |
 |[Nakul Bajaj](https://github.com/nakulbajaj)| [GitHub](https://github.com/nakulbajaj/Nakul-Bajaj-WWDC-17-Submission)| [YouTube](https://www.youtube.com/watch?v=bZLHSl80eTU) |UIKit, SceneKit, Core Graphics, Core Animation, AVFoundation| Submitted|
