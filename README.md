@@ -38,6 +38,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Davide Sibilio](http://twitter.com/iDevid)|| [YouTube](https://www.youtube.com/watch?v=VAinhEco1mY) |UIKit, Core Animation, PlaygroundBook| Submitted|
 |[Emannuel Carvalho](http://twitter.com/emannuel_oc)| [GitHub](https://github.com/emannuelOC/wwdc2017/tree/master) | | PlaygroundBook, NSLinguisticTagger, DynamicAnimator, CoreAnimations, CoreMotion| Submitted|
 |[Eytan Schulman](https://twitter.com/eytanschulman)|| [YouTube](https://youtu.be/p0xSkfTZV0c) |SpriteKit, AVFoundation, Swift Playgrounds, Core Graphics, Core Animation, UIKit| Submitted|
+|[Filipe Alvarenga](https://github.com/filipealva)| [GitHub](https://github.com/filipealva/WWDC17-Scholarship)| | UIKit, PlaygroundSupport| Submitted |
 |[Gabriel Cavalcante](https://github.com/gabrielsscavalcante)|| [YouTube](https://youtu.be/gaoKRjBLQfQ) | UIKit, AVFoundation, CoreImage, NSLayoutContraint, UIGraphics|Submitted|
 |[Galal Hassan](https://galalhassan.com)| [GitHub](https://github.com/galalmounir/WWDC-2017-Entry)| | SpriteKit | Submitted |
 | [Gautham Elango](https://gauthamelango.com/)|[git.gcubed.co](https://git.gcubed.co/wwdc2017/)| |Swift, SpriteKit, UIKit, Machine Learning, Minimax |Submitted |
