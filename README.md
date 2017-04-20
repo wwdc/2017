@@ -30,7 +30,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Bradley Mackey](https://github.com/bradleymackey/)|[GitHub](https://github.com/bradleymackey/WWDC-2017)|[YouTube](https://youtu.be/Hzs8zHOiZQM) |UIKit, Core Animation| Submitted|
 |[Charles Ferreira](https://www.facebook.com/CharlesFerreiraDev)|[GitHub](https://github.com/charles6286/RainbowFluid)|[YouTube](https://youtu.be/7duJDyI_epQ)|SpriteKit, PlaygroundSupport|Submitted|
 |[Charles Truluck](https://twitter.com/CharlesTruluck_)|[GitHub](https://github.com/charlestruluck/WWDC17)| |SceneKit, UIKitDynamics, Core Animation|Submitted|
-|Christian Schnorr| [GitHub](https://github.com/jenox/Force-Directed-Graph-Drawing) | | Swift, UIKitDynamics | Submitted |
+|[Christian Schnorr](https://github.com/jenox)| [GitHub](https://github.com/jenox/Force-Directed-Graph-Drawing) | | Swift, UIKitDynamics | Submitted |
 |[Clemens Brockschmidt](https://github.com/cbrockschmidt/)| [GitHub](https://github.com/cbrockschmidt/wwdc17)| |SpriteKit, UIKit| Submitted|
 |[Daniel Kuntz](https://twitter.com/danielkuntz0)|[GitHub](https://github.com/dkun7944/os-ios/tree/master/Playground)||[AudioKit](https://github.com/audiokit/AudioKit), Core Graphics, Gesture Recognizer|Submitted|
 |[Darius Kuddo](http://lumentie.com)|| [YouTube](https://youtu.be/VcKMo0UMe-E) |MetalKit, Accelerate, AVFoundation, SIMD Vector Library| Submitted|
