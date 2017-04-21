@@ -47,7 +47,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Hammad Jutt](http://jutt.ca) | [GitHub](https://github.com/hammadj/Swift-2048-AI)| [GIF](https://media.giphy.com/media/oczwr8lzNwOdy/giphy.gif) | UIKit, Core Animation | Submitted |
 |[Hari](https://www.twitter.com/developerHari)|||SceneKit, UIKit, Core Motion |Submitted|
 | [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother)| | SpriteKit, SceneKit, CoreAnimation, UIKit | Submitted |
-|[Joel Rorseth](https://github.com/joelrorseth/)| [GitHub](https://github.com/joelrorseth/Tree-Trouble)|| GameplayKit, Social, SpriteKit, PlaygroundSupport, UIKit| Submitted |
+|[Joel Rorseth](https://github.com/joelrorseth/)| [GitHub](https://github.com/joelrorseth/Tree-Trouble)|| GameplayKit, Social, SpriteKit, PlaygroundSupport, UIKit| Accepted |
 |[Jack Bruienne](http://jackmacwindows.tumblr.com/)|[Tumblr](http://jackmacwindows.tumblr.com)| | UIKit, Timers | Submitted |
 |[Jai Bhavnani](https://github.com/jbhav24)|| | Gesture Recognizer, Core Animation, SpriteKit, UIKit, AVFoundation, Core Graphics, Core Images|Submitted |
 |[John Harding](http://hardingsoftware.co)| | [YouTube](https://www.youtube.com/watch?v=RQomb8R8kMc&feature=youtu.be)|SpriteKit, AVFoundation, GameKit| Submitted|
