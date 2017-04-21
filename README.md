@@ -70,7 +70,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Moritz Sternemann](https://github.com/moritzsternemann)|[GitHub](https://github.com/moritzsternemann/SwipyCell/tree/master/PlaygroundBook)||PlaygroundBook, UIKit, SwipyCell, HTML|Submitted|
 |[Nakul Bajaj](https://github.com/nakulbajaj)| [GitHub](https://github.com/nakulbajaj/Nakul-Bajaj-WWDC-17-Submission)| [YouTube](https://www.youtube.com/watch?v=bZLHSl80eTU) |UIKit, SceneKit, Core Graphics, Core Animation, AVFoundation| Submitted|
 |[Neil Sardesai](https://github.com/neilsardesai)| [GitHub](https://github.com/neilsardesai/WWDC-Crowd-Simulator-2017)|  |SpriteKit| Submitted|
-| [Nicholas G](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2017)| [YouTube](https://youtu.be/XJAqi6bqZW4) |SceneKit, SpriteKit, UIKit |Submitted |
+| [Nicholas G](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2017)| [YouTube](https://youtu.be/XJAqi6bqZW4) |SceneKit, SpriteKit, UIKit |Accepted |
 | [Nikita Pankiv](https://github.com/nikitapankiv)| [GitHub](https://github.com/nikitapankiv/WWDC-17)| | UIKit, Core Graphics, AVFoundation | Submitted |
 |[Orlando Aprea](https://github.com/ooorlandooo)| [GitHub](https://github.com/ooorlandooo/WWDC-2017-Playground)|| SpriteKit, AVFoundation | Submitted |
 | [Pannatier Arnaud](https://github.com/ArnaudPannatier)|[GitHub](https://github.com/ArnaudPannatier/Solitaire-Playground)| | UIKit |Submitted |
