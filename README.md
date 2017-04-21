@@ -43,7 +43,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Gabriel Cavalcante](https://github.com/gabrielsscavalcante)|| [YouTube](https://youtu.be/gaoKRjBLQfQ) | UIKit, AVFoundation, CoreImage, NSLayoutContraint, UIGraphics|Submitted|
 |[Galal Hassan](https://galalhassan.com)| [GitHub](https://github.com/galalmounir/WWDC-2017-Entry)| | SpriteKit | Submitted |
 | [Gautham Elango](https://gauthamelango.com/)|[git.gcubed.co](https://git.gcubed.co/wwdc2017/)| |Swift, SpriteKit, UIKit, Machine Learning, Minimax |Submitted |
-| [Guoye Zhang](https://d0g.cc) | [GitHub](https://github.com/cc941201/WWDC2017-SAT) | | PlaygroundBook, Storyboard | Submitted |
+| [Guoye Zhang](https://d0g.cc) | [GitHub](https://github.com/cc941201/WWDC2017-SAT) | | PlaygroundBook, Storyboard | Accepted |
 | [Hammad Jutt](http://jutt.ca) | [GitHub](https://github.com/hammadj/Swift-2048-AI)| [GIF](https://media.giphy.com/media/oczwr8lzNwOdy/giphy.gif) | UIKit, Core Animation | Submitted |
 |[Hari](https://www.twitter.com/developerHari)|||SceneKit, UIKit, Core Motion |Submitted|
 | [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother)| | SpriteKit, SceneKit, CoreAnimation, UIKit | Submitted |
