@@ -87,7 +87,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Ross Freeman](https://github.com/rfree18)|[GitHub](https://github.com/rfree18/WWDC2017)|| UIKit, AVFoundation, CoreAnimation|Submitted|
 |[Ryan O'Connor](https://twitter.com/ryan7oconnor)|[GitHub](https://github.com/ryanoconnor7/WWDC-2017-Scholarship-Application)|[YouTube](https://youtu.be/vu6X3VcbNa4)| AVFoundation, CoreMotion, UIKit, SpriteKit, SceneKit, CutScene, PlaygroundBook* (*tool by Ash Furrow [here](https://github.com/playgroundbooks/playgroundbook) for Xcode --> .playgroundbook)|Submitted|
 |[Salman Husain](https://t.me/wwdcapp)|[GitHub](https://github.com/shusain93/WWDC17/)|[YouTube](https://www.youtube.com/watch?v=dRcC0TVG4tc) | SpriteKit, PlaygroundBook, SpeechSynth| Submitted|
-|[Sam Eckert](https://twitter.com/sam0711er)| |[YouTube](https://youtu.be/xnhBQ9YeOJ0)|SpriteKit, PlaygroundBook, AVKit, AV Foundation, UIKit| Submitted|
+|[Sam Eckert](https://twitter.com/sam0711er)| |[YouTube](https://youtu.be/xnhBQ9YeOJ0)|SpriteKit, PlaygroundBook, AVKit, AV Foundation, UIKit| Accepted|
 |[Shunzhe Ma](https://twitter.com/shunzhema)| [GitHub](https://github.com/shunzhema/WWDC17) |[YouTube](https://www.youtube.com/watch?v=wpSRApiUfEI&t=9s&index=19&list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf) |SceneKit, PlaygroundBook, Core Animation, Core Graphics, AV Foundation, Gesture Recognizer, Local File Manager| Submitted|
 |[Stephen Heaps](https://twitter.com/StephenHeaps)| [GitHub](https://github.com/StephenHeaps/WWDC17Playground)| | UIKit, UIKit Dynamics, UIKit Animation, CoreAnimation | Submitted |
 |[Stergios Hetelekides](https://github.com/hetelek)|[GitHub](https://github.com/hetelek/Neural-Network-Playground)||UIKit, PlaygroundSupport, Core Graphics|Submitted|
