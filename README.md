@@ -19,7 +19,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Agisilaos Tsaraboulidis](https://github.com/agisilaos)| | | SpriteKit, AVFoundation, GameplayKit | Submitted |
 |[Alberto Saltarelli](https://github.com/alberto093)| [GitHub](https://github.com/alberto093/CodingNotes)|[YouTube](https://www.youtube.com/watch?v=AtFOH-BCje0)| UIKit, AVFoundation, AudioToolbox | Submitted |
 |[Alexandre Vassinievski Ribeiro](https://github.com/alexvassini)| [GitHub](https://github.com/alexvassini/Drawing-with-playground-WWDC2017-Scholarship)|[YouTube](https://www.youtube.com/watch?v=fqbxTRz5aO4)| UIKit, CoreMotion, PlaygroundBooks | Submitted |
-|[Alexandro Luongo](https://w00dl3cs.github.io)| [GitHub](https://github.com/W00dL3cs/Super-Maze)| | UIKit, SpriteKit, CoreMotion, PlaygroundSupport | Submitted |
+|[Alexandro Luongo](https://w00dl3cs.github.io)| [GitHub](https://github.com/W00dL3cs/Super-Maze)| | UIKit, SpriteKit, CoreMotion, PlaygroundSupport | Accepted |
 |[Aline K Borges](https://github.com/alinekborges)| [GitHub](https://github.com/alinekborges/DancingFractals)| [YouTube](https://youtu.be/cq8lz5rzp4M) | UIKit, PlaygroundBooks | Submitted |
 |[Aman Jain](linkedin.com/in/aman-jain-4a589b8a/)|| [YouTube](https://www.youtube.com/watch?v=buh1C8aYki8) |SpriteKit, AVFoundation, Swift Playground| Submitted|
 |[Amanda Southworth](https://github.com/thecodingone)| [GitHub](https://github.com/thecodingone/solar-system)| | UIKit, Core Animation | Submitted |
