@@ -51,7 +51,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Jack Bruienne](http://jackmacwindows.tumblr.com/)|[Tumblr](http://jackmacwindows.tumblr.com)| | UIKit, Timers | Submitted |
 |[Jai Bhavnani](https://github.com/jbhav24)|| | Gesture Recognizer, Core Animation, SpriteKit, UIKit, AVFoundation, Core Graphics, Core Images|Submitted |
 |[John Harding](http://hardingsoftware.co)| | [YouTube](https://www.youtube.com/watch?v=RQomb8R8kMc&feature=youtu.be)|SpriteKit, AVFoundation, GameKit| Submitted|
-|[Jordan Osterberg](https://twitter.com/osterbergjordan)| [GitHub](https://github.com/JordanOsterberg/wwdc/tree/master/2017/WWDC17.playground) | |SpriteKit, CoreMotion| Submitted|
+|[Jordan Osterberg](https://twitter.com/osterbergjordan)| [GitHub](https://github.com/JordanOsterberg/wwdc/tree/master/2017/WWDC17.playground) | |SpriteKit, CoreMotion| Rejected|
 |[Jose Antonio González](https://github.com/josegrobles)|[GitHub](https://github.com/josegrobles/WWDC2017/)||SpriteKit, SceneKit, QuartzCore, PlaygroundBook| Submitted|
 |[Juan David Cruz](https://juandavidcruz.com) | [GitHub](https://github.com/juandavidcruzs/ABitOfHumanity)|| SpriteKit, UIKit, CoreAnimation, AV Foundation, Core Motion, AVSpeechSynthesizer, Gesture Recognizer |Submitted|
 | [Kabir Oberai](https://twitter.com/kabiroberai) | [GitHub](https://github.com/kabiroberai/wwdc-17) | | AVFoundation, Core Graphics, SpriteKit | Submitted |
