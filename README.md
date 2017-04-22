@@ -97,6 +97,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Stergios Hetelekides](https://github.com/hetelek)|[GitHub](https://github.com/hetelek/Neural-Network-Playground)||UIKit, PlaygroundSupport, Core Graphics|Submitted|
 |[Taras Nikulin](https://ru-ru.facebook.com/people/Taras-Nikulin/100000793231499)|[GitHub](https://github.com/crabman448/Dijkstra-algorithm)|[YouTube](https://www.youtube.com/watch?v=PPESI7et0cQ&feature=youtu.be)|UIKit, BezierPath, Algorithms, PlaygroundSupport|Rejected|
 |[Thomas Naudet](https://twitter.com/tomn94)|[GitHub](https://github.com/Tomn94/WWDC-2017-Scholarship)|[Direct](https://github.com/Tomn94/WWDC-2017-Scholarship/blob/master/Playgrounds.mp4)|SceneKit, SpriteKit, Core Motion/Animation/Graphics, AVFoundation, MapKit, UIKit, PlaygroundBook/Support, Gesture Recognizer|Accepted|
+|[Tianyue Gao](https://twitter.com/VeeGeeApps)|[GitHub](https://github.com/Phacometer/Giddy-Guitar-wwdc17scholarship)||UIKit, Core Animation, Core Graphics, AVFoundation, PlaygroundSupport|Accepted|
 |[Tiziano Coroneo](https://www.facebook.com/tizianocoroneo)|[GitHub](https://github.com/TizianoCoroneo/WWDC2017---Memefield.git)||SpriteKit, GameplayKit|Submitted|
 |[Tyler Angert](https://www.tylerangert.com)| [GitHub](https://github.com/tangert/WWDC17)|[YouTube](https://www.youtube.com/watch?v=0fhUBMSI8Yw&feature=youtu.be)| UIKit Dynamics, CoreMotion, CoreAnimation | Submitted |
 |[Weiran Du](http://www.williamdu.space)|||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Accepted|
