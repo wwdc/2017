@@ -56,7 +56,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Jordan Osterberg](https://twitter.com/osterbergjordan)| [GitHub](https://github.com/JordanOsterberg/wwdc/tree/master/2017/WWDC17.playground) | |SpriteKit, CoreMotion| Rejected|
 |[Jose Antonio González](https://github.com/josegrobles)|[GitHub](https://github.com/josegrobles/WWDC2017/)||SpriteKit, SceneKit, QuartzCore, PlaygroundBook| Submitted|
 |[Juan David Cruz](https://juandavidcruz.com) | [GitHub](https://github.com/juandavidcruzs/ABitOfHumanity)|| SpriteKit, UIKit, CoreAnimation, AV Foundation, Core Motion, AVSpeechSynthesizer, Gesture Recognizer |Submitted|
-| [Kabir Oberai](https://twitter.com/kabiroberai) | [GitHub](https://github.com/kabiroberai/wwdc-17) | | AVFoundation, Core Graphics, SpriteKit | Submitted |
+| [Kabir Oberai](https://twitter.com/kabiroberai) | [GitHub](https://github.com/kabiroberai/wwdc-17) | | AVFoundation, Core Graphics, SpriteKit | Accepted |
 |[Kamil Kosowski](https://www.facebook.com/kamil.kosowski.75641)|[YouTube](https://www.youtube.com/watch?v=9Ny6gaTcpd4&t=1s) | | UIKit, Core Animation, AVFoundation | Submitted|
 |[Kervon Ryan](https://github.com/kervonryan)| | | Swift, UIKit, SpriteKit, PlaygroundSupport | Accepted |
 | [Krish Wadhwana](https://www.pointblanc.tech) | [GitHub](https://github.com/krishwadhwana) | | UIKit | Submitted |
