@@ -103,3 +103,4 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[William Taylor](http://wttech.tk)|| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Accepted|
 |[Yifei He](http://www.arefly.com/)||[YouTube](https://youtu.be/L26UgWbwZFM)|CoreBluetooth, SpriteKit, UIKit, PlaygroundSupport|Accepted|
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Submitted|
+|[Maciej Gomółka](https://github.com/Zaprogramiacz)|[GitHub](https://github.com/Zaprogramiacz/PixelBalls-WWDC2017)|[YouTube](https://www.youtube.com/watch?v=Q45fAN7E5WI)|XCTest, Core Animation, AVFoundation, UIKit|Submitted|
