@@ -100,4 +100,5 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Tyler Angert](https://www.tylerangert.com)| [GitHub](https://github.com/tangert/WWDC17)|[YouTube](https://www.youtube.com/watch?v=0fhUBMSI8Yw&feature=youtu.be)| UIKit Dynamics, CoreMotion, CoreAnimation | Submitted |
 |[Weiran Du](http://www.williamdu.space)|||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Accepted|
 |[William Taylor](http://wttech.tk)|| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Submitted|
+|[Yifei He](http://www.arefly.com/)||[YouTube](https://youtu.be/L26UgWbwZFM)|CoreBluetooth, SpriteKit, UIKit, PlaygroundSupport|Accepted|
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Submitted|
