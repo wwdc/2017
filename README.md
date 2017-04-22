@@ -57,7 +57,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Juan David Cruz](https://juandavidcruz.com) | [GitHub](https://github.com/juandavidcruzs/ABitOfHumanity)|| SpriteKit, UIKit, CoreAnimation, AV Foundation, Core Motion, AVSpeechSynthesizer, Gesture Recognizer |Submitted|
 | [Kabir Oberai](https://twitter.com/kabiroberai) | [GitHub](https://github.com/kabiroberai/wwdc-17) | | AVFoundation, Core Graphics, SpriteKit | Submitted |
 |[Kamil Kosowski](https://www.facebook.com/kamil.kosowski.75641)|[YouTube](https://www.youtube.com/watch?v=9Ny6gaTcpd4&t=1s) | | UIKit, Core Animation, AVFoundation | Submitted|
-|[Kervon Ryan](https://github.com/kervonryan)| | | Swift, UIKit, SpriteKit, PlaygroundSupport | Submitted |
+|[Kervon Ryan](https://github.com/kervonryan)| | | Swift, UIKit, SpriteKit, PlaygroundSupport | Accepted |
 | [Krish Wadhwana](https://www.pointblanc.tech) | [GitHub](https://github.com/krishwadhwana) | | UIKit | Submitted |
 |[Kush Taneja](https://www.facebook.com/kushtaneja16)|[GitHub](https://github.com/kushtaneja/WWDC-2017/)| [YouTube](https://youtu.be/tgVCUV37TqE) | UIKit, SpriteKit, Core Animation, AVFoundation, AudioToolbox, AVSpeechSynthesizer, Gesture Recognizer | Submitted|
 | [Kyle Spadaro](https://twitter.com/kylespadaro) | [GitHub](https://github.com/kylespadaro/WWDC-2017)| |GameKit, GameplayKit, ReplayKit, SpriteKit, UIKit |Rejected |
