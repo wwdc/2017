@@ -26,7 +26,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Andrew Abosh](https://github.com/aabosh)|| [YouTube](https://youtu.be/MqaLxoWBipI) | UIKit, SpriteKit | Accepted |
 |[Antonio Antonino](https://github.com/Diiaablo95)| [GitHub](https://github.com/Diiaablo95/WWDC17)| [YouTube](https://www.youtube.com/watch?v=Oxh8Mllld_k) |UIKit, Core Image, PlaygroundSupport| Submitted|
 |[Antonio Zaitoun](https://github.com/Minitour)| [GitHub](https://github.com/Minitour/The-Macintosh-Project)| [YouTube](https://www.youtube.com/watch?v=xsI5CaudNbQ) |UIKit, Core Graphics, Core Animation,Gesture Recognizer, AVFoundation| Accepted|
-|[Arved Viehweger](https://github.com/arvedviehweger/)| [GitHub](https://github.com/arvedviehweger/WWDC17-Playground)| [YouTube](https://www.youtube.com/watch?v=o0tvrlHkuoA&)|UIKit, SpriteKit, AVFoundation, CoreGraphics| Submitted|
+|[Arved Viehweger](https://github.com/arvedviehweger/)| [GitHub](https://github.com/arvedviehweger/WWDC17-Playground)| [YouTube](https://www.youtube.com/watch?v=o0tvrlHkuoA&)|UIKit, SpriteKit, AVFoundation, CoreGraphics| Rejected|
 |[Ben Emdon](https://github.com/BenEmdon) |[GitHub](https://github.com/BenEmdon/PixelArtMaker) | | UIKit | Accepted |
 |[Benjamin Herzog](https://github.com/BenchR267)| [GitHub](https://github.com/BenchR267/Get-Schwifty)| [GIF](https://github.com/BenchR267/Get-Schwifty/raw/master/img/live.gif)|UIKit, Foundation| Rejected|
 |[Bradley Mackey](https://github.com/bradleymackey/)|[GitHub](https://github.com/bradleymackey/WWDC-2017)|[YouTube](https://youtu.be/Hzs8zHOiZQM) |UIKit, Core Animation| Submitted|
