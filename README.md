@@ -15,7 +15,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |[Aalap Patel](https://github.com/aalap07)| [GitHub](https://github.com/aalap07/wwdc.git)| | UIKit, AVFoundation, PlaygroundSupport, Core Graphics| Rejected |
-|[Adrián Rubio](https://github.com/Adrxx)| [GitHub](https://github.com/Adrxx/Amatheus.git)|[YouTube](https://youtu.be/Pe4V74afBS8)| SpriteKit, AVFoundation | Submitted |
+|[Adrián Rubio](https://github.com/Adrxx)| [GitHub](https://github.com/Adrxx/Amatheus.git)|[YouTube](https://youtu.be/Pe4V74afBS8)| SpriteKit, AVFoundation | Accepted |
 |[Agisilaos Tsaraboulidis](https://github.com/agisilaos)| | | SpriteKit, AVFoundation, GameplayKit | Submitted |
 |[Alberto Saltarelli](https://github.com/alberto093)| [GitHub](https://github.com/alberto093/CodingNotes)|[YouTube](https://www.youtube.com/watch?v=AtFOH-BCje0)| UIKit, AVFoundation, AudioToolbox | Submitted |
 |[Alexandre Vassinievski Ribeiro](https://github.com/alexvassini)| [GitHub](https://github.com/alexvassini/Drawing-with-playground-WWDC2017-Scholarship)|[YouTube](https://www.youtube.com/watch?v=fqbxTRz5aO4)| UIKit, CoreMotion, PlaygroundBooks | Submitted |
