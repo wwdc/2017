@@ -52,7 +52,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Hammad Jutt](http://jutt.ca) | [GitHub](https://github.com/hammadj/Swift-2048-AI)| [GIF](https://media.giphy.com/media/oczwr8lzNwOdy/giphy.gif) | UIKit, Core Animation | Submitted |
 |[Hari](https://www.twitter.com/developerHari)|||SceneKit, UIKit, Core Motion |Submitted|
 | [Harish Yerra](https://twitter.com/harishyerra4) ||| Core Image, Metal | Accepted |
-| [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother)| | SpriteKit, SceneKit, CoreAnimation, UIKit | Accepted |
+| [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother)| [YouTube](https://www.youtube.com/watch?v=J8LLSW4Ubvg) | SpriteKit, SceneKit, CoreAnimation, UIKit | Accepted |
 |[Joel Rorseth](https://github.com/joelrorseth/)| [GitHub](https://github.com/joelrorseth/Tree-Trouble)|| GameplayKit, Social, SpriteKit, PlaygroundSupport, UIKit| Accepted |
 |[Jack Bruienne](http://jackmacwindows.tumblr.com/)|[Github](https://github.com/MCJack123/WWDC-2017-Clock)| [GIF](https://68.media.tumblr.com/b50892b1b85a8b21addf3972a0629a5f/tumblr_onj56lPSp01w8q2b8o1_1280.gif) | UIKit, Timers | Rejected |
 |[Jack Chorley](https://github.com/jdjack)|[GitHub](https://github.com/jdjack/WWDC2017Scholarship)| | UIKit, SpriteKit, Genetic Algorithm, Generics | Accepted |
