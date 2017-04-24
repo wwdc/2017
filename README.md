@@ -39,7 +39,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Clemens Brockschmidt](https://github.com/cbrockschmidt/)| [GitHub](https://github.com/cbrockschmidt/wwdc17)| |SpriteKit, UIKit| Submitted|
 |[Daniel Kuntz](https://twitter.com/danielkuntz0)|[GitHub](https://github.com/dkun7944/os-ios/tree/master/Playground)||[AudioKit](https://github.com/audiokit/AudioKit), Core Graphics, Gesture Recognizer|Submitted|
 |[Darius Kuddo](http://lumentie.com)|| [YouTube](https://youtu.be/VcKMo0UMe-E) |MetalKit, Accelerate, AVFoundation, SIMD Vector Library| Submitted|
-|[David Nadoba](https://twitter.com/DNadoba) | [GitHub](https://github.com/dnadoba/snake-playgroundbook) | [YouTube](https://youtu.be/fs60kMa0Of4) | UIKit, AVFoundation | Submitted|
+|[David Nadoba](https://twitter.com/DNadoba) | [GitHub](https://github.com/dnadoba/snake-playgroundbook) | [YouTube](https://youtu.be/fs60kMa0Of4) | UIKit, AVFoundation | Accepted|
 |[Davide Sibilio](http://twitter.com/iDevid)|| [YouTube](https://www.youtube.com/watch?v=VAinhEco1mY) |UIKit, Core Animation, PlaygroundBook| Accepted|
 |[Emannuel Carvalho](http://twitter.com/emannuel_oc)| [GitHub](https://github.com/emannuelOC/wwdc2017/tree/master) | | PlaygroundBook, NSLinguisticTagger, DynamicAnimator, CoreAnimations, CoreMotion| Submitted|
 |[Eytan Schulman](https://twitter.com/eytanschulman)|| [YouTube](https://youtu.be/p0xSkfTZV0c) |SpriteKit, AVFoundation, Swift Playgrounds, Core Graphics, Core Animation, UIKit| Submitted|
