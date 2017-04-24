@@ -57,6 +57,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Jack Bruienne](http://jackmacwindows.tumblr.com/)|[Github](https://github.com/MCJack123/WWDC-2017-Clock)| [GIF](https://68.media.tumblr.com/b50892b1b85a8b21addf3972a0629a5f/tumblr_onj56lPSp01w8q2b8o1_1280.gif) | UIKit, Timers | Rejected |
 |[Jack Chorley](https://github.com/jdjack)|[GitHub](https://github.com/jdjack/WWDC2017Scholarship)| | UIKit, SpriteKit, Genetic Algorithm, Generics | Accepted |
 |[Jai Bhavnani](https://github.com/jbhav24)|| | Gesture Recognizer, Core Animation, SpriteKit, UIKit, AVFoundation, Core Graphics, Core Images|Submitted |
+|[Jari Koopman](https://github.com/MrLotU/)|[GitHub](https://github.com/MrLotU/WWDC17)|| UIKit, PlaygroundSupport | Accepted|
 |[Jinghan Wang](https://github.com/null09264)|| | GameplayKit, SpriteKit, CoreMotion, AVFoundation, Core Graphics|Accepted |
 |[John Harding](http://hardingsoftware.co)| | [YouTube](https://www.youtube.com/watch?v=RQomb8R8kMc&feature=youtu.be)|SpriteKit, AVFoundation, GameKit| Submitted|
 |[Jordan Osterberg](https://twitter.com/osterbergjordan)| [GitHub](https://github.com/JordanOsterberg/wwdc/tree/master/2017/WWDC17.playground) | |SpriteKit, CoreMotion| Rejected|
