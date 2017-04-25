@@ -45,7 +45,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Eytan Schulman](https://twitter.com/eytanschulman)|| [YouTube](https://youtu.be/p0xSkfTZV0c) |SpriteKit, AVFoundation, Swift Playgrounds, Core Graphics, Core Animation, UIKit| Submitted|
 |[Filipe Alvarenga](https://github.com/filipealva)| [GitHub](https://github.com/filipealva/WWDC17-Scholarship)| | UIKit, PlaygroundSupport| Submitted |
 |[Filipe Nogueira Jordão](https://github.com/FilipeJrd)| [GitHub](https://github.com/FilipeJrd/DijkstraSimulator)| [Youtube](https://www.youtube.com/watch?v=KcyJmsUFPBE&feature=youtu.be)| UIKit, PlaygroundSupport| Accepted|
-|[Gabriel Cavalcante](https://github.com/gabrielsscavalcante)|| [YouTube](https://youtu.be/gaoKRjBLQfQ) | UIKit, AVFoundation, CoreImage, NSLayoutContraint, UIGraphics|Submitted|
+|[Gabriel Cavalcante](https://github.com/gabrielsscavalcante)|| [YouTube](https://youtu.be/gaoKRjBLQfQ) | UIKit, AVFoundation, CoreImage, NSLayoutContraint, UIGraphics|Accepted|
 |[Galal Hassan](https://galalhassan.com)| [GitHub](https://github.com/galalmounir/WWDC-2017-Entry)| | SpriteKit | Submitted |
 | [Gautham Elango](https://gauthamelango.com/)|[git.gcubed.co](https://git.gcubed.co/wwdc2017/)| |Swift, SpriteKit, UIKit, Machine Learning, Minimax |Submitted |
 | [Guoye Zhang](https://d0g.cc) | [GitHub](https://github.com/cc941201/WWDC2017-SAT) | | PlaygroundBook, Storyboard | Accepted |
@@ -90,7 +90,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Pietro Caruso](https://www.facebook.com/pietro.caruso.16)|[GitHub](https://github.com/ITzTravelInTime/playgoundOS)||JavaScriptCore, UIKit, SpiteKit, WebKit, Gesture Recognizer, CoreGraphics, CoreAnimation| Submitted|
 |[Qingyang Hu](https://t.me/huqingyang)|[git.oscs.io](https://git.oscs.io/mmlmml1/IntroducingAccelerometer)||UIKit, CoreMotion, AudioToolBox, PlaygroundSupport, PlaygroundBook| Accepted|
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Accepted|
-|[Raul Marques](https://github.com/raulmo1337)|| [YouTube](https://youtu.be/WPaGzKoPJoA) | UIKit, AVFoundation, UIDynamics, CoreAnimation|Submitted|
+|[Raul Marques](https://github.com/raulmo1337)|| [YouTube](https://youtu.be/WPaGzKoPJoA) | UIKit, AVFoundation, UIDynamics, CoreAnimation|Rejected|
 |[Rehaan Advani](https://twitter.com/Rehaan_Advani)||[YouTube](https://www.youtube.com/watch?v=hAmEIQkCZg0)|UIKit, MapKit, PlaygroundSupport, CoreAnimation, UIKit Dynamics, AVFoundation| Submitted |
 |[Remy Da Costa Faro](https://github.com/RemyDCF)| [GitHub](https://github.com/RemyDCF/WWDCPlayground/) |[YouTube](https://www.youtube.com/watch?v=UgsFoo7QDZs)| SpriteKit, AVFoundation | Rejected |
 |[Renata Faria](https://github.com/xReee)||[YouTube](https://youtu.be/P0qTka4s5zM)| UIKit, NSLayoutConstraint, Gesture Recognizer | Accepted |
