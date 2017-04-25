@@ -77,6 +77,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Maciej Gomółka](https://github.com/Zaprogramiacz)|[GitHub](https://github.com/Zaprogramiacz/PixelBalls-WWDC2017)|[YouTube](https://www.youtube.com/watch?v=Q45fAN7E5WI)|XCTest, Core Animation, AVFoundation, UIKit|Accepted|
 |[Marko Crnkovic](https://github.com/chih98) [Website](https://www.mbobpro.com) |[GitHub](https://github.com/chih98/wwdc2017)|[YouTube](https://www.youtube.com/watch?v=DLGU4SeUDBA) |AudioToolbox, UIKit, PlaygroundSupport | Accepted |
 |[Matthijs Logemann](https://github.com/matthijs2704)|[GitHub](https://github.com/matthijs2704/wwdc2017)|[YouTube](https://youtu.be/N2ETuXQk9QU) | SpriteKit, Swift Playgrounds (iOS), HTML, UIKit |Submitted|
+| [Miguel Salinas](https://github.com/idevMike)|[GitHub](https://github.com/idevMike/WWDC-2017-Scholarship-Application-Playground)|[YouTube](https://www.youtube.com/watch?v=5ELtImUl3SU)|AVFoundation, SpriteKit |Accepted|
 | [Mitchell Sweet](http://www.mitchellsweet.com)||[YouTube](https://www.youtube.com/watch?v=sZf_62qixPQ)|SpriteKit, UIKit|Submitted|
 | [Mohamed Salah](https://www.facebook.com/MohameD.salahh.77)|[GitHub](https://github.com/MoHamEdSaLaHH/WWDC17-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=wUSoqkv4IJg&list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf&index=8)|SceneKit, AVFoundation, UIKit |Accepted |
 |[Moritz Sternemann](https://github.com/moritzsternemann)|[GitHub](https://github.com/moritzsternemann/SwipyCell/tree/master/PlaygroundBook)||PlaygroundBook, UIKit, SwipyCell, HTML|Submitted|
