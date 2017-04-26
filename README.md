@@ -96,6 +96,8 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Renata Faria](https://github.com/xReee)||[YouTube](https://youtu.be/P0qTka4s5zM)| UIKit, NSLayoutConstraint, Gesture Recognizer | Accepted |
 |[Richter Brzeski](https://github.com/richtermb)| [GitHub](https://github.com/richtermb/WWDC-2017)| [Screenshot](https://ibb.co/jzUvT5) |UIKit, Accelerate, QuartzCore, Foundation, AVFoundation, CoreGraphics| Accepted|
 |[Rohit Gurnani](https://github.com/rkgi10)||[YouTube](https://www.youtube.com/watch?v=pcWb8Nsem9U)|SpriteKit, AVFoundation|Submitted|
+|[Rodrigo Longhi Guimarães](https://github.com/rodrigolguimaraes)| [GitHub](https://github.com/RodrigoLGuimaraes/SpaceNomad_wwdc17)| [Youtube](https://youtu.be/e4wxhQbj_8E) |SpriteKit, UIKit, AVFoundation| Accepted|
+|[Rohit Gurnani](https://github.com/rkgi10)||[YouTube](https://www.youtube.com/watch?v=pcWb8Nsem9U)|SpriteKit, AVFoundation|Submitted|
 |[Ronak Shah](https://ronakshah.net)|[GitHub](https://github.com/ronakdev/spacecoders)| | SpriteKit |Submitted|
 |[Ross Freeman](https://github.com/rfree18)|[GitHub](https://github.com/rfree18/WWDC2017)|| UIKit, AVFoundation, CoreAnimation|Submitted|
 |[Ryan O'Connor](https://twitter.com/ryan7oconnor)|[GitHub](https://github.com/ryanoconnor7/WWDC-2017-Scholarship-Application)|[YouTube](https://youtu.be/vu6X3VcbNa4)| AVFoundation, CoreMotion, UIKit, SpriteKit, SceneKit, CutScene, PlaygroundBook* (*tool by Ash Furrow [here](https://github.com/playgroundbooks/playgroundbook) for Xcode --> .playgroundbook)|Accepted|
