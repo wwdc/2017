@@ -77,6 +77,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Logan Henderson](https://twitter.com/0logn) | [GitHub](https://github.com/LoganHenderson/WWDCScholarship2017)|| UIKit, CoreImage, AV Foundation |Submitted|
 |[Maciej Gomółka](https://github.com/Zaprogramiacz)|[GitHub](https://github.com/Zaprogramiacz/PixelBalls-WWDC2017)|[YouTube](https://www.youtube.com/watch?v=Q45fAN7E5WI)|XCTest, Core Animation, AVFoundation, UIKit|Accepted|
 |[Marko Crnkovic](https://github.com/chih98) [Website](https://www.mbobpro.com) |[GitHub](https://github.com/chih98/wwdc2017)|[YouTube](https://www.youtube.com/watch?v=DLGU4SeUDBA) |AudioToolbox, UIKit, PlaygroundSupport | Accepted |
+|[Martin Lücke](https://github.com/redtoastyDev) |[GitHub](https://github.com/redtoastyDev/WWDC17-Scholarship-submission)||SpriteKit, UIBezierPath, AVFoundation, Core Graphics | Accepted |
 |[Matthijs Logemann](https://github.com/matthijs2704)|[GitHub](https://github.com/matthijs2704/wwdc2017)|[YouTube](https://youtu.be/N2ETuXQk9QU) | SpriteKit, Swift Playgrounds (iOS), HTML, UIKit |Submitted|
 | [Miguel Salinas](https://github.com/idevMike)|[GitHub](https://github.com/idevMike/WWDC-2017-Scholarship-Application-Playground)|[YouTube](https://www.youtube.com/watch?v=5ELtImUl3SU)|AVFoundation, SpriteKit |Accepted|
 | [Mitchell Sweet](http://www.mitchellsweet.com)||[YouTube](https://www.youtube.com/watch?v=sZf_62qixPQ)|SpriteKit, UIKit|Submitted|
@@ -90,7 +91,12 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Pannatier Arnaud](https://github.com/ArnaudPannatier)|[GitHub](https://github.com/ArnaudPannatier/Solitaire-Playground)| | UIKit |Submitted |
 | [Patrick Balestra](https://github.com/BalestraPatrick)|[GitHub](https://github.com/BalestraPatrick/WWDC-2017-Scholarship)| [YouTube](https://www.youtube.com/watch?v=6gsqjLKMYiE&feature=youtu.be) |SceneKit, AppKit |Submitted |
 |[Pietro Caruso](https://www.facebook.com/pietro.caruso.16)|[GitHub](https://github.com/ITzTravelInTime/playgoundOS)||JavaScriptCore, UIKit, SpiteKit, WebKit, Gesture Recognizer, CoreGraphics, CoreAnimation| Rejected |
-|[Qingyang Hu](https://t.me/huqingyang)|[git.oscs.io](https://git.oscs.io/mmlmml1/IntroducingAccelerometer)||UIKit, CoreMotion, AudioToolBox, PlaygroundSupport, PlaygroundBook| Accepted|
+|[Qingyang Hu](https://t.me/huqingyang)|[git.oscs.io](https://git.oscs.io/mmlmml1/IntroducingAccelerometer)||UIKit, CoreMotion, 
+
+
+
+
+ToolBox, PlaygroundSupport, PlaygroundBook| Accepted|
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Accepted|
 |[Raul Marques](https://github.com/raulmo1337)|| [YouTube](https://youtu.be/WPaGzKoPJoA) | UIKit, AVFoundation, UIDynamics, CoreAnimation|Rejected|
 |[Rehaan Advani](https://twitter.com/Rehaan_Advani)||[YouTube](https://www.youtube.com/watch?v=hAmEIQkCZg0)|UIKit, MapKit, PlaygroundSupport, CoreAnimation, UIKit Dynamics, AVFoundation| Submitted |
