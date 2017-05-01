@@ -33,6 +33,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Ben Emdon](https://github.com/BenEmdon) |[GitHub](https://github.com/BenEmdon/PixelArtMaker) | | UIKit | Accepted |
 |[Benjamin Herzog](https://github.com/BenchR267)| [GitHub](https://github.com/BenchR267/Get-Schwifty)| [GIF](https://github.com/BenchR267/Get-Schwifty/raw/master/img/live.gif)|UIKit, Foundation| Rejected|
 |[Bradley Mackey](https://github.com/bradleymackey/)|[GitHub](https://github.com/bradleymackey/WWDC-2017)|[YouTube](https://youtu.be/Hzs8zHOiZQM) |UIKit, Core Animation| Submitted|
+|[Chan Jing Hong](https://twitter.com/cJinghong)||[YouTube](https://youtu.be/zu3s-87s_AA)|[GitHub](https://github.com/cjinghong/EvanWonderland)||UIKit|Accepted|
 |[Charles Ferreira](https://www.facebook.com/CharlesFerreiraDev)|[GitHub](https://github.com/charles6286/RainbowFluid)|[YouTube](https://youtu.be/7duJDyI_epQ)|SpriteKit, PlaygroundSupport|Submitted|
 |[Charles Truluck](https://twitter.com/CharlesTruluck_)|[GitHub](https://github.com/charlestruluck/WWDC17)| |SceneKit, UIKitDynamics, Core Animation|Accepted|
 |[Christian Schnorr](https://github.com/jenox)| [GitHub](https://github.com/jenox/Force-Directed-Graph-Drawing) | | Swift, UIKitDynamics | Submitted |
@@ -122,4 +123,3 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Submitted|
 |[Zhiyu Zhu](https://twitter.com/zhuzhiyu2001041)|[GitHub](https://github.com/ApolloZhu/Swifty-Karel)||Singleton; Timer, UIKit and Animation, Core Graphics, AVFoundation, PlaygroundSupport, CustomPlaygroundQuicklookable|Accepted|
 |[Ziga Besal](http://ekranac.com)|[GitHub](https://github.com/ekranac/Zboot-Playground)||UIKit|Accepted|
-|[Chan Jing Hong](https://twitter.com/cJinghong)||[YouTube](https://youtu.be/zu3s-87s_AA)|[GitHub](https://github.com/cjinghong/EvanWonderland)||UIKit|Accepted|
