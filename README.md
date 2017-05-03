@@ -39,7 +39,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Christian Schnorr](https://github.com/jenox)| [GitHub](https://github.com/jenox/Force-Directed-Graph-Drawing) | | Swift, UIKitDynamics | Submitted |
 |[Clemens Brockschmidt](https://github.com/cbrockschmidt/)| [GitHub](https://github.com/cbrockschmidt/wwdc17)| |SpriteKit, UIKit| Submitted|
 |[Daniel Kuntz](https://twitter.com/danielkuntz0)|[GitHub](https://github.com/dkun7944/os-ios/tree/master/Playground)||[AudioKit](https://github.com/audiokit/AudioKit), Core Graphics, Gesture Recognizer|Submitted|
-|[Darius Kuddo](http://lumentie.com)|| [YouTube](https://youtu.be/VcKMo0UMe-E) |MetalKit, Accelerate, AVFoundation, SIMD Vector Library| Submitted|
+|[Darius Kuddo](http://lumentie.com)|| [YouTube](https://youtu.be/VcKMo0UMe-E) |MetalKit, Accelerate, AVFoundation, SIMD Vector Library| Accepted|
 |[David Nadoba](https://twitter.com/DNadoba) | [GitHub](https://github.com/dnadoba/snake-playgroundbook) | [YouTube](https://youtu.be/fs60kMa0Of4) | UIKit, AVFoundation | Accepted|
 |[Davide Sibilio](http://twitter.com/iDevid)|| [YouTube](https://www.youtube.com/watch?v=VAinhEco1mY) |UIKit, Core Animation, PlaygroundBook| Accepted|
 |[Dominik Rygiel](https://twitter.com/Antoszku)|[GitHub](https://github.com/Antoszku/I-Love-Hue-WWDC-2017)| [YouTube](https://youtu.be/VPtqDciPShI) |UIKit| Accepted|
@@ -63,20 +63,19 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Jai Bhavnani](https://github.com/jbhav24)|| | Gesture Recognizer, Core Animation, SpriteKit, UIKit, AVFoundation, Core Graphics, Core Images|Submitted |
 |[Jari Koopman](https://github.com/MrLotU/)|[GitHub](https://github.com/MrLotU/WWDC17)|| UIKit, PlaygroundSupport | Accepted|
 |[Jinghan Wang](https://github.com/null09264)|| | GameplayKit, SpriteKit, CoreMotion, AVFoundation, Core Graphics|Accepted |
-|[John Harding](http://hardingsoftware.co)| | [YouTube](https://www.youtube.com/watch?v=RQomb8R8kMc&feature=youtu.be)|SpriteKit, AVFoundation, GameKit| Submitted|
+|[John Harding](http://hardingsoftware.co)| | [YouTube](https://www.youtube.com/watch?v=RQomb8R8kMc&feature=youtu.be)|SpriteKit, AVFoundation, GameKit| Rejected|
 |[Jordan Osterberg](https://twitter.com/osterbergjordan)| [GitHub](https://github.com/JordanOsterberg/wwdc/tree/master/2017/WWDC17.playground) | |SpriteKit, CoreMotion| Rejected|
 |[Jose Antonio González](https://github.com/josegrobles)|[GitHub](https://github.com/josegrobles/WWDC2017/)||SpriteKit, SceneKit, QuartzCore, PlaygroundBook| Submitted|
 |[Juan David Cruz](https://juandavidcruz.com) | [GitHub](https://github.com/juandavidcruzs/ABitOfHumanity)|| SpriteKit, UIKit, CoreAnimation, AV Foundation, Core Motion, AVSpeechSynthesizer, Gesture Recognizer |Submitted|
 |[Júnior Lima](https://github.com/juniorlimaivd) | [GitHub](https://github.com/Juniorlimaivd/LaunchPad-Playground)|| UIKit,  AV Foundation |Accepted|
-|[Jose Antonio González](https://github.com/josegrobles)|[GitHub](https://github.com/josegrobles/WWDC2017/)||SpriteKit, SceneKit, QuartzCore, PlaygroundBook| Submitted|
 | [Kabir Oberai](https://twitter.com/kabiroberai) | [GitHub](https://github.com/kabiroberai/wwdc-17) | | AVFoundation, Core Graphics, SpriteKit | Accepted |
 |[Kamil Kosowski](https://www.facebook.com/kamil.kosowski.75641)|[YouTube](https://www.youtube.com/watch?v=9Ny6gaTcpd4&t=1s) | | UIKit, Core Animation, AVFoundation | Accepted|
 |[Kervon Ryan](https://github.com/kervonryan)| | | Swift, UIKit, SpriteKit, PlaygroundSupport | Accepted |
-| [Krish Wadhwana](https://www.pointblanc.tech) | [GitHub](https://github.com/krishwadhwana) | | UIKit | Submitted |
+| [Krish Wadhwana](https://www.pointblanc.tech) | [GitHub](https://github.com/krishwadhwana) | | UIKit | Accepted |
 |[Kush Taneja](https://www.facebook.com/kushtaneja16)|[GitHub](https://github.com/kushtaneja/WWDC-2017/)| [YouTube](https://youtu.be/tgVCUV37TqE) | UIKit, SpriteKit, Core Animation, AVFoundation, AudioToolbox, AVSpeechSynthesizer, Gesture Recognizer | Submitted|
 | [Kyle Spadaro](https://twitter.com/kylespadaro) | [GitHub](https://github.com/kylespadaro/WWDC-2017)| |GameKit, GameplayKit, ReplayKit, SpriteKit, UIKit |Rejected |
 |[Lalo Martínez](https://twitter.com/L__A__L__O) | [GitHub](https://github.com/LaloMrtnz/Kaleido)| [YouTube](https://www.youtube.com/watch?v=6XYdC8IKNus&t=3s)| CoreAnimation, AV Foundation |Submitted|
-|[Léo Vallet](https://github.com/leovallet)|[GitHub](https://github.com/leovallet/WWDC-2017)||SpriteKit, AVFoundation, AVSpeechSynthesizer|Submitted|
+|[Léo Vallet](https://github.com/leovallet)|[GitHub](https://github.com/leovallet/WWDC-2017)||SpriteKit, AVFoundation, AVSpeechSynthesizer|Accepted|
 |[Logan Henderson](https://twitter.com/0logn) | [GitHub](https://github.com/LoganHenderson/WWDCScholarship2017)|| UIKit, CoreImage, AV Foundation |Submitted|
 |[Maciej Gomółka](https://github.com/Zaprogramiacz)|[GitHub](https://github.com/Zaprogramiacz/PixelBalls-WWDC2017)|[YouTube](https://www.youtube.com/watch?v=Q45fAN7E5WI)|XCTest, Core Animation, AVFoundation, UIKit|Accepted|
 |[Marko Crnkovic](https://github.com/chih98) [Website](https://www.mbobpro.com) |[GitHub](https://github.com/chih98/wwdc2017)|[YouTube](https://www.youtube.com/watch?v=DLGU4SeUDBA) |AudioToolbox, UIKit, PlaygroundSupport | Accepted |
