@@ -65,7 +65,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Jinghan Wang](https://github.com/null09264)|| | GameplayKit, SpriteKit, CoreMotion, AVFoundation, Core Graphics|Accepted |
 |[John Harding](http://hardingsoftware.co)| | [YouTube](https://www.youtube.com/watch?v=RQomb8R8kMc&feature=youtu.be)|SpriteKit, AVFoundation, GameKit| Rejected|
 |[Jordan Osterberg](https://twitter.com/osterbergjordan)| [GitHub](https://github.com/JordanOsterberg/wwdc/tree/master/2017/WWDC17.playground) | |SpriteKit, CoreMotion| Rejected|
-|[Jose Antonio González](https://github.com/josegrobles)|[GitHub](https://github.com/josegrobles/WWDC2017/)||SpriteKit, SceneKit, QuartzCore, PlaygroundBook| Submitted|
+|[Jose Antonio González](https://github.com/josegrobles)|[GitHub](https://github.com/josegrobles/WWDC2017/)||SpriteKit, SceneKit, QuartzCore, PlaygroundBook| Accepted|
 |[Juan David Cruz](https://juandavidcruz.com) | [GitHub](https://github.com/juandavidcruzs/ABitOfHumanity)|| SpriteKit, UIKit, CoreAnimation, AV Foundation, Core Motion, AVSpeechSynthesizer, Gesture Recognizer |Submitted|
 |[Júnior Lima](https://github.com/juniorlimaivd) | [GitHub](https://github.com/Juniorlimaivd/LaunchPad-Playground)|| UIKit,  AV Foundation |Accepted|
 | [Kabir Oberai](https://twitter.com/kabiroberai) | [GitHub](https://github.com/kabiroberai/wwdc-17) | | AVFoundation, Core Graphics, SpriteKit | Accepted |
