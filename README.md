@@ -16,7 +16,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |------|--------|--------------|--------------|--------|
 |[Aalap Patel](https://github.com/aalap07)| [GitHub](https://github.com/aalap07/wwdc.git)| | UIKit, AVFoundation, PlaygroundSupport, Core Graphics| Rejected |
 |[Adrián Rubio](https://github.com/Adrxx)| [GitHub](https://github.com/Adrxx/Amatheus.git)|[YouTube](https://youtu.be/Pe4V74afBS8)| SpriteKit, AVFoundation | Accepted |
-|[Agisilaos Tsaraboulidis](https://github.com/agisilaos)| | | SpriteKit, AVFoundation, GameplayKit | Submitted |
+|[Agisilaos Tsaraboulidis](https://github.com/agisilaos)| | | SpriteKit, AVFoundation, GameplayKit | Rejected |
 |[Alberto Saltarelli](https://github.com/alberto093)| [GitHub](https://github.com/alberto093/CodingNotes)|[YouTube](https://www.youtube.com/watch?v=AtFOH-BCje0)| UIKit, AVFoundation, AudioToolbox | Rejected |
 |[Alexandre Vassinievski Ribeiro](https://github.com/alexvassini)| [GitHub](https://github.com/alexvassini/Drawing-with-playground-WWDC2017-Scholarship)|[YouTube](https://www.youtube.com/watch?v=fqbxTRz5aO4)| UIKit, CoreMotion, PlaygroundBooks | Submitted |
 |[Alexandro Luongo](https://w00dl3cs.github.io)| [GitHub](https://github.com/W00dL3cs/Super-Maze)| | UIKit, SpriteKit, CoreMotion, PlaygroundSupport | Accepted |
@@ -100,7 +100,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Remy Da Costa Faro](https://github.com/RemyDCF)| [GitHub](https://github.com/RemyDCF/WWDCPlayground/) |[YouTube](https://www.youtube.com/watch?v=UgsFoo7QDZs)| SpriteKit, AVFoundation | Rejected |
 |[Renata Faria](https://github.com/xReee)||[YouTube](https://youtu.be/P0qTka4s5zM)| UIKit, NSLayoutConstraint, Gesture Recognizer | Accepted |
 |[Richter Brzeski](https://github.com/richtermb)| [GitHub](https://github.com/richtermb/WWDC-2017)| [Screenshot](https://ibb.co/jzUvT5) |UIKit, Accelerate, QuartzCore, Foundation, AVFoundation, CoreGraphics| Accepted|
-|[Rohit Gurnani](https://github.com/rkgi10)||[YouTube](https://www.youtube.com/watch?v=pcWb8Nsem9U)|SpriteKit, AVFoundation|Submitted|
+|[Rohit Gurnani](https://github.com/rkgi10)||[YouTube](https://www.youtube.com/watch?v=pcWb8Nsem9U)|SpriteKit, AVFoundation|Rejected|
 |[Rodrigo Longhi Guimarães](https://github.com/rodrigolguimaraes)| [GitHub](https://github.com/RodrigoLGuimaraes/SpaceNomad_wwdc17)| [Youtube](https://youtu.be/e4wxhQbj_8E) |SpriteKit, UIKit, AVFoundation| Accepted|
 |[Ronak Shah](https://ronakshah.net)|[GitHub](https://github.com/ronakdev/spacecoders)| | SpriteKit |Submitted|
 |[Ross Freeman](https://github.com/rfree18)|[GitHub](https://github.com/rfree18/WWDC2017)|| UIKit, AVFoundation, CoreAnimation|Submitted|
