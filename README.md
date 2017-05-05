@@ -115,6 +115,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Tianyue Gao](https://twitter.com/VeeGeeApps)|[GitHub](https://github.com/Phacometer/Giddy-Guitar-wwdc17scholarship)|[YouTube](https://youtu.be/CaGphUNQVr8)|UIKit, Core Animation, Core Graphics, AVFoundation, PlaygroundSupport|Accepted|
 |[Tiziano Coroneo](https://www.facebook.com/tizianocoroneo)|[GitHub](https://github.com/TizianoCoroneo/WWDC2017---Memefield.git)||SpriteKit, GameplayKit|Submitted|
 |[Tyler Angert](https://www.tylerangert.com)| [GitHub](https://github.com/tangert/WWDC17)|[YouTube](https://www.youtube.com/watch?v=0fhUBMSI8Yw&feature=youtu.be)| UIKit Dynamics, CoreMotion, CoreAnimation | Submitted |
+|[Vegard Solheim Theriault](https://twitter.com/vegather)|[Github](https://github.com/vegather/A-World-of-Circles)||PlaygroundBook, CoreAnimation, CoreGraphics, Fourier Transform|Accepted|
 |[Weiran Du](http://www.williamdu.space)|||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Accepted|
 |[William Taylor](http://wttech.tk)|| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Accepted|
 |[William Zhang](https://github.com/17zhangw/)| [GitHub](https://github.com/17zhangw/WWDC2017)|| SpriteKit, UIKit, PlaygroundSupport, AVFoundation | Accepted |
