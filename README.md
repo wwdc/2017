@@ -58,6 +58,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Harish Yerra](https://twitter.com/harishyerra4) ||| Core Image, Metal | Accepted |
 | [Harshil Shah](https://github.com/HarshilShah) | [GitHub](https://github.com/HarshilShah/Watchface) || UIKit, Core Graphics, SpriteKit | Accepted |
 | [Hengyu](https://twitter.com/hengyuy) | [GitHub](https://github.com/hengyu/Mother)| [YouTube](https://www.youtube.com/watch?v=J8LLSW4Ubvg) | SpriteKit, SceneKit, CoreAnimation, UIKit | Accepted |
+| [Hollis Liu](https://twitter.com/hollis0807) | [GitHub](https://github.com/hollisliu/Spacetime-Rhapsody)| [GIF](https://github.com/hollisliu/Spacetime-Rhapsody/blob/master/intro.gif) | SceneKit, UIKit, PlaygroundSupport | Rejected |
 |[Joel Rorseth](https://github.com/joelrorseth/)| [GitHub](https://github.com/joelrorseth/Tree-Trouble)|| GameplayKit, Social, SpriteKit, PlaygroundSupport, UIKit| Accepted |
 |[Jack Bruienne](http://jackmacwindows.tumblr.com/)|[Github](https://github.com/MCJack123/WWDC-2017-Clock)| [GIF](https://68.media.tumblr.com/b50892b1b85a8b21addf3972a0629a5f/tumblr_onj56lPSp01w8q2b8o1_1280.gif) | UIKit, Timers | Rejected |
 |[Jack Chorley](https://github.com/jdjack)|[GitHub](https://github.com/jdjack/WWDC2017Scholarship)| | UIKit, SpriteKit, Genetic Algorithm, Generics | Accepted |
