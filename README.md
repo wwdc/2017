@@ -61,7 +61,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Joel Rorseth](https://github.com/joelrorseth/)| [GitHub](https://github.com/joelrorseth/Tree-Trouble)|| GameplayKit, Social, SpriteKit, PlaygroundSupport, UIKit| Accepted |
 |[Jack Bruienne](http://jackmacwindows.tumblr.com/)|[Github](https://github.com/MCJack123/WWDC-2017-Clock)| [GIF](https://68.media.tumblr.com/b50892b1b85a8b21addf3972a0629a5f/tumblr_onj56lPSp01w8q2b8o1_1280.gif) | UIKit, Timers | Rejected |
 |[Jack Chorley](https://github.com/jdjack)|[GitHub](https://github.com/jdjack/WWDC2017Scholarship)| | UIKit, SpriteKit, Genetic Algorithm, Generics | Accepted |
-|[Jai Bhavnani](https://github.com/jbhav24)|| | Gesture Recognizer, Core Animation, SpriteKit, UIKit, AVFoundation, Core Graphics, Core Images|Accepted |
+|[Jai Bhavnani](https://github.com/jbhav24)|[Github](https://github.com/jbhav24/WWDC-2017-Scholarship-Playground) | | Gesture Recognizer, Core Animation, SpriteKit, UIKit, AVFoundation, Core Graphics, Core Images|Accepted |
 |[Jari Koopman](https://github.com/MrLotU/)|[GitHub](https://github.com/MrLotU/WWDC17)|| UIKit, PlaygroundSupport | Accepted|
 |[Jay Lees](https://github.com/jaylees14)|[GitHub](https://github.com/jaylees14/wwdc17)| | UIKit, SceneKit, AVFoundation, Playground Support | Accepted |
 |[Jinghan Wang](https://github.com/null09264)|| | GameplayKit, SpriteKit, CoreMotion, AVFoundation, Core Graphics|Accepted |
