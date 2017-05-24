@@ -93,6 +93,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Neil Sardesai](https://github.com/neilsardesai)| [GitHub](https://github.com/neilsardesai/WWDC-Crowd-Simulator-2017)|  |SpriteKit| Rejected|
 | [Nicholas G](https://github.com/Nicholas714)|[GitHub](https://github.com/Nicholas714/WWDC-2017)| [YouTube](https://youtu.be/XJAqi6bqZW4) |SceneKit, SpriteKit, UIKit |Accepted |
 | [Nikita Pankiv](https://github.com/nikitapankiv)| [GitHub](https://github.com/nikitapankiv/WWDC-17)| | UIKit, Core Graphics, AVFoundation | Rejected |
+| [Nils Leif Fischer](http://nilsleiffischer.de) | [GitHub](https://github.com/knly/black-holes-playground) || SpriteKit, Core Image, Core Motion, AVFoundation | Accepted |
 |[Orlando Aprea](https://github.com/ooorlandooo)| [GitHub](https://github.com/ooorlandooo/WWDC-2017-Playground)|| SpriteKit, AVFoundation | Submitted |
 | [Pannatier Arnaud](https://github.com/ArnaudPannatier)|[GitHub](https://github.com/ArnaudPannatier/Solitaire-Playground)| | UIKit |Submitted |
 | [Patrick Balestra](https://github.com/BalestraPatrick)|[GitHub](https://github.com/BalestraPatrick/WWDC-2017-Scholarship)| [YouTube](https://www.youtube.com/watch?v=6gsqjLKMYiE&feature=youtu.be) |SceneKit, AppKit |Accepted |
