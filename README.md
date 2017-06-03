@@ -101,7 +101,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Pannatier Arnaud](https://github.com/ArnaudPannatier)|[GitHub](https://github.com/ArnaudPannatier/Solitaire-Playground)| | UIKit |Submitted |
 | [Patrick Balestra](https://github.com/BalestraPatrick)|[GitHub](https://github.com/BalestraPatrick/WWDC-2017-Scholarship)| [YouTube](https://www.youtube.com/watch?v=6gsqjLKMYiE&feature=youtu.be) |SceneKit, AppKit |Accepted |
 |[Pietro Caruso](https://www.facebook.com/pietro.caruso.16)|[GitHub](https://github.com/ITzTravelInTime/playgoundOS)||JavaScriptCore, UIKit, SpiteKit, WebKit, Gesture Recognizer, CoreGraphics, CoreAnimation| Rejected |
-|[Qingyang Hu](https://t.me/huqingyang)|[git.oscs.io](https://git.oscs.io/mmlmml1/IntroducingAccelerometer)||UIKit, CoreMotion, ToolBox, PlaygroundSupport, PlaygroundBook| Accepted|
+|[Qingyang Hu](https://github.com/mmlmml1)|[Github](https://github.com/mmlmml1/IntroducingAccelerometer)||UIKit, CoreMotion, ToolBox, PlaygroundSupport, PlaygroundBook| Accepted|
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Accepted|
 |[Raul Marques](https://github.com/raulmo1337)|| [YouTube](https://youtu.be/WPaGzKoPJoA) | UIKit, AVFoundation, UIDynamics, CoreAnimation|Rejected|
 |[Rehaan Advani](https://twitter.com/Rehaan_Advani)||[YouTube](https://www.youtube.com/watch?v=hAmEIQkCZg0)|UIKit, MapKit, PlaygroundSupport, CoreAnimation, UIKit Dynamics, AVFoundation| Submitted |
