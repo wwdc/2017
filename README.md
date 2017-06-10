@@ -101,6 +101,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Orlando Aprea](https://github.com/ooorlandooo)| [GitHub](https://github.com/ooorlandooo/WWDC-2017-Playground)|| SpriteKit, AVFoundation | Submitted |
 | [Pannatier Arnaud](https://github.com/ArnaudPannatier)|[GitHub](https://github.com/ArnaudPannatier/Solitaire-Playground)| | UIKit |Submitted |
 | [Patrick Balestra](https://github.com/BalestraPatrick)|[GitHub](https://github.com/BalestraPatrick/WWDC-2017-Scholarship)| [YouTube](https://www.youtube.com/watch?v=6gsqjLKMYiE&feature=youtu.be) |SceneKit, AppKit |Accepted |
+| [Philipp Gabriel](https://github.com/ph1ps)|[GitHub](https://github.com/ph1ps/WWDC17)| | UIKit, Algorithms |Accepted |
 |[Pietro Caruso](https://www.facebook.com/pietro.caruso.16)|[GitHub](https://github.com/ITzTravelInTime/playgoundOS)||JavaScriptCore, UIKit, SpiteKit, WebKit, Gesture Recognizer, CoreGraphics, CoreAnimation| Rejected |
 |[Qingyang Hu](https://github.com/mmlmml1)|[Github](https://github.com/mmlmml1/IntroducingAccelerometer)||UIKit, CoreMotion, ToolBox, PlaygroundSupport, PlaygroundBook| Accepted|
 |[Rahul M](https://twitter.com/rahulmfg)|[GitHub](https://github.com/Getmrahul/WWDC-2017)||SpriteKit, UIKit, AVFoundation| Accepted|
