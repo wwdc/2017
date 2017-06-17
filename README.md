@@ -131,6 +131,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Weiran Du](http://www.williamdu.space)|||UIKit, AVFoundation, Minimax, PlaygroundSupport, Core Graphics|Accepted|
 |[William Taylor](http://wttech.tk)|| [YouTube](https://youtu.be/PMhMg8TDrow?list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf)|SpriteKit, AV Foundation, UIKit| Accepted|
 |[William Zhang](https://github.com/17zhangw/)| [GitHub](https://github.com/17zhangw/WWDC2017)|| SpriteKit, UIKit, PlaygroundSupport, AVFoundation | Accepted |
+|[Yana Valieva](https://github.com/vJenny)|[GitHub](https://github.com/vJenny/reversi-game)||CoreGraphics, UIKit, PlaygroundSupport|Accepted|
 |[Yifei He](http://www.arefly.com/)||[YouTube](https://youtu.be/L26UgWbwZFM)|CoreBluetooth, SpriteKit, UIKit, PlaygroundSupport|Accepted|
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Rejected|
 |[Zhiyu Zhu](https://twitter.com/zhuzhiyu2001041)|[GitHub](https://github.com/ApolloZhu/Swifty-Karel)||Singleton; Timer, UIKit and Animation, Core Graphics, AVFoundation, PlaygroundSupport, CustomPlaygroundQuicklookable|Accepted|
