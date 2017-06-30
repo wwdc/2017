@@ -90,6 +90,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Martin Lücke](https://github.com/redtoastyDev) |[GitHub](https://github.com/redtoastyDev/WWDC17-Scholarship-submission)||SpriteKit, UIBezierPath, AVFoundation, Core Graphics | Accepted |
 |[Matheus Cardoso](https://github.com/cardoso)|[GitHub](https://github.com/cardoso/AutoPong)|| SpriteKit, PlaygroundBooks | Accepted|
 |[Matthijs Logemann](https://github.com/matthijs2704)|[GitHub](https://github.com/matthijs2704/wwdc2017)|[YouTube](https://youtu.be/N2ETuXQk9QU) | SpriteKit, Swift Playgrounds (iOS), HTML, UIKit |Accepted|
+|[Michael Galperin](https://github.com/piechart)|[GitHub](https://github.com/piechart/WWDC17-Submission)|| UIKit, AVFoundation, CoreAnimation, CoreGraphics, CoreText, QuartzCore |Accepted|
 | [Miguel Salinas](https://github.com/idevMike)|[GitHub](https://github.com/idevMike/WWDC-2017-Scholarship-Application-Playground)|[YouTube](https://www.youtube.com/watch?v=5ELtImUl3SU)|AVFoundation, SpriteKit |Accepted|
 | [Mitchell Sweet](http://www.mitchellsweet.com)||[YouTube](https://www.youtube.com/watch?v=sZf_62qixPQ)|SpriteKit, UIKit|Accepted|
 | [Mohamed Salah](https://www.facebook.com/MohameD.salahh.77)|[GitHub](https://github.com/MoHamEdSaLaHH/WWDC17-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=wUSoqkv4IJg&list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf&index=8)|SceneKit, AVFoundation, UIKit |Accepted |
