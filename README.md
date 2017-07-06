@@ -15,6 +15,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |[Aalap Patel](https://github.com/aalap07)| [GitHub](https://github.com/aalap07/wwdc.git)| | UIKit, AVFoundation, PlaygroundSupport, Core Graphics| Rejected |
+|[Aaron Cheung](https://github.com/AaronCheung430)| [GitHub](https://github.com/AaronCheung430/WWDC2017)|[YouTube](https://youtu.be/OFgC1uoggXE)| UIKit, AVFoundation, PlaygroundSupport, SceneKit| Rejected |
 |[Adrián Rubio](https://github.com/Adrxx)| [GitHub](https://github.com/Adrxx/Amatheus.git)|[YouTube](https://youtu.be/Pe4V74afBS8)| SpriteKit, AVFoundation | Accepted |
 |[Agisilaos Tsaraboulidis](https://github.com/agisilaos)| | | SpriteKit, AVFoundation, GameplayKit | Rejected |
 |[Albert Sanchez](https://github.com/AlbertSanIza)|  [GitHub](https://github.com/AlbertSanIza/CodedWithLove) | | SpriteKit, AVFoundation, GameplayKit | Accepted |
