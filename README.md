@@ -53,6 +53,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Eytan Schulman](https://twitter.com/eytanschulman)|| [YouTube](https://youtu.be/p0xSkfTZV0c) |SpriteKit, AVFoundation, Swift Playgrounds, Core Graphics, Core Animation, UIKit| Rejected|
 |[Filipe Alvarenga](https://github.com/filipealva)| [GitHub](https://github.com/filipealva/WWDC17-Scholarship)| | UIKit, PlaygroundSupport| Submitted |
 |[Filipe Nogueira Jordão](https://github.com/FilipeJrd)| [GitHub](https://github.com/FilipeJrd/DijkstraSimulator)| [Youtube](https://www.youtube.com/watch?v=KcyJmsUFPBE&feature=youtu.be)| UIKit, PlaygroundSupport| Accepted|
+|[Florian Kasten](https://github.com/Flokkka)| [GitHub](https://github.com/Flokkka) || UIKit, PlaygroundSupport, CoreGraphics | Accepted|
 |[Gabriel Cavalcante](https://github.com/gabrielsscavalcante)|| [YouTube](https://youtu.be/gaoKRjBLQfQ) | UIKit, AVFoundation, CoreImage, NSLayoutContraint, UIGraphics|Accepted|
 |[Galal Hassan](https://galalhassan.com)| [GitHub](https://github.com/galalmounir/WWDC-2017-Entry)| | SpriteKit | Submitted |
 | [Gautham Elango](https://gauthamelango.com/)|[git.gcubed.co](https://git.gcubed.co/wwdc2017/)| |Swift, SpriteKit, UIKit, Machine Learning, Minimax |Submitted |
