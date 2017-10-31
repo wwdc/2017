@@ -31,6 +31,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Antonio Zaitoun](https://github.com/Minitour)| [GitHub](https://github.com/Minitour/The-Macintosh-Project)| [YouTube](https://www.youtube.com/watch?v=xsI5CaudNbQ) |UIKit, Core Graphics, Core Animation,Gesture Recognizer, AVFoundation| Accepted|
 |[Anushk Mittal](http://anushk.me)| [GitHub](https://github.com/anushkmittal/bankCEO)| |UIKit, Core Graphics, Core Animation, PlaygroundBook| Accepted|
 |[Arved Viehweger](https://github.com/arvedviehweger/)| [GitHub](https://github.com/arvedviehweger/WWDC17-Playground)| [YouTube](https://www.youtube.com/watch?v=o0tvrlHkuoA&)|UIKit, SpriteKit, AVFoundation, CoreGraphics| Rejected|
+|[Arjun Naha](https://github.com/arjunnaha/)|UIKit, SpriteKit, AVFoundation| Accepted|
 |[Aviral Aggarwal](https://www.facebook.com/Aviral190694)|[GitHub](https://github.com/Aviral190694/WWDC-2017-Application-Selected-Happoji)||UIKit, SpriteKit|Accepted|
 |[Ayush Aggarwal](https://highestage.github.io)|||UIKit, PlaygroundSupport, CoreAudio, Metal, MetalKit, OpenAL, AVKit, AVFoundation, CoreImage, CoreMotion, SceneKit| Accepted|
 |[Ben Emdon](https://github.com/BenEmdon) |[GitHub](https://github.com/BenEmdon/PixelArtMaker) | | UIKit | Accepted |
