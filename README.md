@@ -51,7 +51,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Davide Sibilio](http://twitter.com/iDevid)|| [YouTube](https://www.youtube.com/watch?v=VAinhEco1mY) |UIKit, Core Animation, PlaygroundBook| Accepted|
 |[Dominik Rygiel](https://twitter.com/Antoszku)|[GitHub](https://github.com/Antoszku/I-Love-Hue-WWDC-2017)| [YouTube](https://youtu.be/VPtqDciPShI) |UIKit| Accepted|
 |[Emannuel Carvalho](http://twitter.com/emannuel_oc)| [GitHub](https://github.com/emannuelOC/wwdc2017/tree/master) | | PlaygroundBook, NSLinguisticTagger, DynamicAnimator, CoreAnimations, CoreMotion| Accepted |
-|[Eremenko Maxim](https://www.linkedin.com/in/maxim-eremenko/)| [GitHub](https://github.com/devMEremenko/WWDC) | | MVVM, CoreAnimations, InteractiveTransitions, | Submitted|
+|[Eremenko Maxim](https://www.linkedin.com/in/maxim-eremenko/)| [GitHub](https://github.com/devMEremenko/WWDC) | [YouTube](https://www.youtube.com/watch?v=B7LpHhujz4U&t=2s) | MVVM, CoreAnimations, InteractiveTransitions, | Submitted|
 |[Eytan Schulman](https://twitter.com/eytanschulman)|| [YouTube](https://youtu.be/p0xSkfTZV0c) |SpriteKit, AVFoundation, Swift Playgrounds, Core Graphics, Core Animation, UIKit| Rejected|
 |[Filipe Alvarenga](https://github.com/filipealva)| [GitHub](https://github.com/filipealva/WWDC17-Scholarship)| | UIKit, PlaygroundSupport| Submitted |
 |[Filipe Nogueira Jordão](https://github.com/FilipeJrd)| [GitHub](https://github.com/FilipeJrd/DijkstraSimulator)| [Youtube](https://www.youtube.com/watch?v=KcyJmsUFPBE&feature=youtu.be)| UIKit, PlaygroundSupport| Accepted|
