@@ -87,7 +87,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 | [Krish Wadhwana](https://www.pointblanc.tech) | [GitHub](https://github.com/krishwadhwana) | | UIKit | Accepted |
 |[Kush Taneja](https://www.facebook.com/kushtaneja16)|[GitHub](https://github.com/kushtaneja/WWDC-2017/)| [YouTube](https://youtu.be/tgVCUV37TqE) | UIKit, SpriteKit, Core Animation, AVFoundation, AudioToolbox, AVSpeechSynthesizer, Gesture Recognizer | Submitted|
 | [Kyle Johnson](http://kylejohnsonapps.com) | | [YouTube](https://www.youtube.com/watch?v=lHKf4klk0-I) | UIKit, SpriteKit, PlaygroundSupport, AVFoundation | Accepted |
-| [Kyle Spadaro](https://twitter.com/kylespadaro) | N/A | |GameKit, GameplayKit, ReplayKit, SpriteKit, UIKit |Rejected |
+| [Kyle Spadaro](https://twitter.com/kylespadaro) | | |GameKit, GameplayKit, ReplayKit, SpriteKit, UIKit |Rejected |
 |[Lalo Martínez](https://twitter.com/L__A__L__O) | [GitHub](https://github.com/LaloMrtnz/Kaleido)| [YouTube](https://www.youtube.com/watch?v=6XYdC8IKNus&t=3s)| CoreAnimation, AV Foundation |Submitted|
 |[Léo Vallet](https://github.com/leovallet)|[GitHub](https://github.com/leovallet/WWDC-2017)||SpriteKit, AVFoundation, AVSpeechSynthesizer|Accepted|
 |[Logan Henderson](https://twitter.com/0logn) | [GitHub](https://github.com/LoganHenderson/WWDCScholarship2017)|| UIKit, CoreImage, AV Foundation |Accepted|
