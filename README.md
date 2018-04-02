@@ -99,7 +99,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Michael Galperin](https://github.com/piechart)|[GitHub](https://github.com/piechart/WWDC17-Submission)|| UIKit, AVFoundation, CoreAnimation, CoreGraphics, CoreText, QuartzCore |Accepted|
 | [Miguel Salinas](https://github.com/idevMike)|[GitHub](https://github.com/idevMike/WWDC-2017-Scholarship-Application-Playground)|[YouTube](https://www.youtube.com/watch?v=5ELtImUl3SU)|AVFoundation, SpriteKit |Accepted|
 | [Mitchell Sweet](http://www.mitchellsweet.com)||[YouTube](https://www.youtube.com/watch?v=sZf_62qixPQ)|SpriteKit, UIKit|Accepted|
-| [Mohamed Salah](https://www.facebook.com/MohameD.salahh.77)|[GitHub](https://github.com/MoHamEdSaLaHH/WWDC17-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=wUSoqkv4IJg&list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf&index=8)|SceneKit, AVFoundation, UIKit |Accepted |
+| [Mohamed Salah](https://www.facebook.com/Abo.Salahh77)|[GitHub](https://github.com/MoHamEdSaLaHH/WWDC17-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=wUSoqkv4IJg&list=PLl469UE7Uwr0bdon2CvnpxmQs16qu4nkf&index=8)|SceneKit, AVFoundation, UIKit |Accepted |
 |[Moritz Sternemann](https://github.com/moritzsternemann)|[GitHub](https://github.com/moritzsternemann/SwipyCell/tree/master/PlaygroundBook)||PlaygroundBook, UIKit, [SwipyCell](https://github.com/moritzsternemann/SwipyCell), HTML|Accepted|
 |[Nakul Bajaj](https://github.com/nakulbajaj)| [GitHub](https://github.com/nakulbajaj/Nakul-Bajaj-WWDC-17-Submission)| |UIKit, SceneKit, Core Graphics, Core Animation, AVFoundation| Accepted|
 |[Neil Sardesai](https://github.com/neilsardesai)| [GitHub](https://github.com/neilsardesai/WWDC-Crowd-Simulator-2017)|  |SpriteKit| Rejected|
