@@ -145,4 +145,5 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Yifei He](http://www.arefly.com/)||[YouTube](https://youtu.be/L26UgWbwZFM)|CoreBluetooth, SpriteKit, UIKit, PlaygroundSupport|Accepted|
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Rejected|
 |[Zhiyu Zhu](https://twitter.com/zhuzhiyu2001041)|[GitHub](https://github.com/ApolloZhu/Swifty-Karel)||Singleton; Timer, UIKit and Animation, Core Graphics, AVFoundation, PlaygroundSupport, CustomPlaygroundQuicklookable|Accepted|
-|[Ziga Besal](http://ekranac.com)|[GitHub](https://github.com/ekranac/Zboot-Playground)||UIKit|Accepted|
+|[Ziga Besal](http://ekranac.com)|[GitHub](https://github.com/ekranac/Zboot-Playground)||UIKit|Accepted|  
+|[Peiqin Zhao](http://github.com/hbgxsm95)|[GitHub](https://github.com/hbgxsm95/WWDC_2017_Student)||UIKit SpriteKit|Accepted|
