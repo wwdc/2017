@@ -128,7 +128,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Rodrigo Longhi Guimarães](https://github.com/rodrigolguimaraes)| [GitHub](https://github.com/RodrigoLGuimaraes/SpaceNomad_wwdc17)| [Youtube](https://youtu.be/e4wxhQbj_8E) |SpriteKit, UIKit, AVFoundation| Accepted|
 |[Ronak Shah](https://ronakshah.net)|[GitHub](https://github.com/ronakdev/spacecoders)| | SpriteKit |Submitted|
 |[Ross Freeman](https://github.com/rfree18)|[GitHub](https://github.com/rfree18/WWDC2017)|| UIKit, AVFoundation, CoreAnimation|Submitted|
-|[Ryan O'Connor](https://twitter.com/ryan7oconnor)|[GitHub](https://github.com/ryanoconnor7/WWDC-2017-Scholarship-Application)|[YouTube](https://youtu.be/vu6X3VcbNa4)| AVFoundation, CoreMotion, UIKit, SpriteKit, SceneKit, CutScene, PlaygroundBook* (*tool by Ash Furrow [here](https://github.com/playgroundbooks/playgroundbook) for Xcode --> .playgroundbook)|Accepted|
+|[Ryan O'Connor](https://twitter.com/ryan7oconnor)|[GitHub](https://github.com/ryanoconnor7/WWDC-2017-Scholarship-Application)|[YouTube](https://youtu.be/vu6X3VcbNa4)| AVFoundation, CoreMotion, UIKit, SpriteKit, SceneKit, CutScene, PlaygroundBook|Accepted|
 |[Sai Kambampati](https://twitter.com/Sai_K1065)|[GitHub](https://github.com/theindiandev1065/WWDC-2017-Scholarship)|[YouTube](https://www.youtube.com/watch?v=knuZbeqisN0)| UIKit, CoreGraphics, CoreAnimation |Accepted|
 |[Salman Husain](https://twitter.com/aeroxtwo)|[GitHub](https://github.com/shusain93/WWDC17/)|[YouTube](https://www.youtube.com/watch?v=dRcC0TVG4tc) | SpriteKit, PlaygroundBook, SpeechSynth|Accepted|
 |[Sam Eckert](https://twitter.com/sam0711er)| |[YouTube](https://youtu.be/xnhBQ9YeOJ0)|SpriteKit, PlaygroundBook, AVKit, AV Foundation, UIKit| Accepted|
