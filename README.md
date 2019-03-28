@@ -38,6 +38,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Ben Emdon](https://github.com/BenEmdon) |[GitHub](https://github.com/BenEmdon/PixelArtMaker) | | UIKit | Accepted |
 |[Benjamin Herzog](https://github.com/BenchR267)| [GitHub](https://github.com/BenchR267/Get-Schwifty)| [GIF](https://github.com/BenchR267/Get-Schwifty/raw/master/img/live.gif)|UIKit, Foundation| Rejected|
 |[Bradley Mackey](https://github.com/bradleymackey/)|[GitHub](https://github.com/bradleymackey/WWDC-2017)|[YouTube](https://youtu.be/Hzs8zHOiZQM) |UIKit, Core Animation| Submitted|
+|[Brett Fazio](https://github.com/brettfazio/)|[GitHub](https://github.com/brettfazio/WWDC17-Winning-Submission)||UIKit, SpriteKit, PlaygroundSupport| Accepted|
 |[Caleb Kierum](https://github.com/CalebKierum)|[GitHub](https://github.com/CalebKierum/WWDC-2017-Elevator)||SpriteKit|Accepted|
 |[Chan Jing Hong](https://twitter.com/cJinghong)|[GitHub](https://github.com/cjinghong/EvanWonderland)|[YouTube](https://youtu.be/zu3s-87s_AA)|UIKit|Accepted|
 |[Charles Ferreira](https://www.facebook.com/CharlesFerreiraDev)|[GitHub](https://github.com/charles6286/RainbowFluid)|[YouTube](https://youtu.be/7duJDyI_epQ)|SpriteKit, PlaygroundSupport|Submitted|
