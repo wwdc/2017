@@ -87,6 +87,7 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Kamil Kosowski](https://www.facebook.com/kamil.kosowski.75641)|[YouTube](https://www.youtube.com/watch?v=9Ny6gaTcpd4&t=1s) | | UIKit, Core Animation, AVFoundation | Accepted|
 |[Kervon Ryan](https://github.com/kervonryan)| | | Swift, UIKit, SpriteKit, PlaygroundSupport | Accepted |
 | [Kevin Turner](https://www.kevinturnerapps.com) | [GitHub](https://github.com/kevtheappdev) | | UIKit | Accepted |
+| [Klemens Strasser](http://klemensstrasser.at)||[YouTube](https://www.youtube.com/watch?v=xFFonp640j4) | SpirteKit, UIKit | Accepted|
 | [Krish Wadhwana](https://www.pointblanc.tech) | [GitHub](https://github.com/krishwadhwana) | | UIKit | Accepted |
 |[Kush Taneja](https://www.facebook.com/kushtaneja16)|[GitHub](https://github.com/kushtaneja/WWDC-2017/)| [YouTube](https://youtu.be/tgVCUV37TqE) | UIKit, SpriteKit, Core Animation, AVFoundation, AudioToolbox, AVSpeechSynthesizer, Gesture Recognizer | Submitted|
 | [Kyle Johnson](http://kylejohnsonapps.com) | | [YouTube](https://www.youtube.com/watch?v=lHKf4klk0-I) | UIKit, SpriteKit, PlaygroundSupport, AVFoundation | Accepted |
