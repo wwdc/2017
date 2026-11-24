@@ -14,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2017/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status<br>           |
 |:--|:--|:--|
 | [Aalap Patel](https://github.com/aalap07) | [GitHub](https://github.com/aalap07/wwdc.git)<br><sub>UIKit, AVFoundation, PlaygroundSupport, CoreGraphics</sub> | ![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge) |
 | [Aaron Cheung](https://github.com/AaronCheung430) | [GitHub](https://github.com/AaronCheung430/WWDC2017) · [Video](https://youtu.be/OFgC1uoggXE)<br><sub>UIKit, AVFoundation, PlaygroundSupport, SceneKit</sub> | ![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge) |
